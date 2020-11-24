@@ -1,0 +1,669 @@
+Id|Precinct|Smith|Elworth|Hobbs|Totals|TabName
+1|WestBlue/Highland|328|35|16|379|Adams
+2|Verona|132|12|8|152|Adams
+3|Kenesaw|554|60|21|635|Adams
+4|Juniata|433|67|17|517|Adams
+5|Denver|514|92|23|629|Adams
+6|Blaine|98|7|3|108|Adams
+7|Pauline|165|14|7|186|Adams
+8|Ayr|332|58|15|405|Adams
+9|Roseland|255|24|10|289|Adams
+10|Holstein|166|12|2|180|Adams
+11|1-A|568|193|45|806|Adams
+12|1-B|401|147|30|578|Adams
+13|1-C|344|160|20|524|Adams
+14|2-A|276|52|12|340|Adams
+15|2-B|486|125|24|635|Adams
+16|2-C|396|134|23|553|Adams
+17|2-D|695|226|32|953|Adams
+18|2-E|470|140|35|645|Adams
+19|3-A|392|203|34|629|Adams
+20|3-B|339|187|24|550|Adams
+21|3-C|466|194|44|704|Adams
+22|3-D|88|38|4|130|Adams
+23|3-E|906|250|40|1196|Adams
+24|4-A|295|142|25|462|Adams
+25|4-B|376|156|19|551|Adams
+26|4-C|175|129|12|316|Adams
+27|4-D|639|216|46|901|Adams
+28|4-E|161|53|14|228|Adams
+29|Tilden Precinct|135|22|9|166|Antelope
+30|Tilden 1st Ward|112|26|5|143|Antelope
+31|Oakdale Precinct|222|23|8|253|Antelope
+32|Neligh Precinct|228|35|7|270|Antelope
+33|Neligh 1st Ward|343|50|13|406|Antelope
+34|Neligh 2nd Ward|272|57|19|348|Antelope
+35|Brunswick Precinct|313|34|7|354|Antelope
+36|Elgin 1st Ward|163|11|5|179|Antelope
+37|Elgin 2nd Ward|188|15|6|209|Antelope
+38|Elgin Precinct|214|12|4|230|Antelope
+39|Royal Precinct|117|12|1|130|Antelope
+40|Clearwater Precinct|414|31|7|452|Antelope
+41|Orchard Precinct|269|30|11|310|Antelope
+42|Arthur|0|0|0|0|Arthur
+43|Long Springs|342|45|16|403|Banner
+44|Blaine|265|23|17|305|Blaine
+45|Boone|132|7|5|144|Boone
+46|Beaver|340|45|13|398|Boone
+47|Cedar|240|67|16|323|Boone
+48|Dublin-Bonanza|116|21|6|143|Boone
+49|North Branch-Shell Creek|81|2|3|86|Boone
+50|North Manchester|391|47|15|453|Boone
+51|Oakland|356|54|14|424|Boone
+52|Southeast Manchester|478|67|17|562|Boone
+53|Southwest Manchester|488|44|9|541|Boone
+54|New/Former Resident|0|0|0|0|Boone
+55|Precinct 1|395|120|25|540|Box Butte
+56|Precinct 2|424|120|35|579|Box Butte
+57|Precinct 3|334|107|32|473|Box Butte
+58|Precinct 4|443|123|35|601|Box Butte
+59|Precinct 5|611|125|39|775|Box Butte
+60|Precinct 6|508|149|29|686|Box Butte
+61|Precinct 11|323|33|7|363|Box Butte
+62|Precinct 12|308|24|17|349|Box Butte
+63|Precinct 15|618|93|28|739|Box Butte
+64|Butte Basin McCulley|369|40|17|426|Boyd
+65|Lynch Bristow Mullen Bush|220|17|11|248|Boyd
+66|Spencer Morton|377|32|12|421|Boyd
+67|Ainsworth Precinct|443|28|10|481|Brown
+68|City of Ainsworth|705|68|28|801|Brown
+69|The Pines|312|32|11|355|Brown
+70|Precinct 1|751|204|35|990|Buffalo
+71|Precinct 2|562|203|39|804|Buffalo
+72|Precinct 3|837|247|45|1129|Buffalo
+73|Precinct 4|1263|294|40|1597|Buffalo
+74|Precinct 5|548|155|36|739|Buffalo
+75|Precinct 6|972|301|43|1316|Buffalo
+76|Precinct 7|605|316|45|966|Buffalo
+77|Precinct 8|368|142|23|533|Buffalo
+78|Precinct 9|560|225|42|827|Buffalo
+79|Precinct 10|943|293|86|1322|Buffalo
+80|Precinct 11|391|213|30|634|Buffalo
+81|Precinct 12|445|250|54|749|Buffalo
+82|Precinct 13|1111|345|74|1530|Buffalo
+83|Precinct 14|864|286|74|1224|Buffalo
+84|Precinct 15|280|20|9|309|Buffalo
+85|Precinct 16|509|64|18|591|Buffalo
+86|Precinct 17|233|37|9|279|Buffalo
+87|Precinct 18|520|124|25|669|Buffalo
+88|Precinct 19|510|47|21|578|Buffalo
+89|Precinct 20|944|141|33|1118|Buffalo
+90|Precinct 21|431|60|22|513|Buffalo
+91|Precinct 22|270|37|16|323|Buffalo
+92|Precinct 23|289|77|20|386|Buffalo
+93|Precinct 24|580|120|26|726|Buffalo
+94|Precinct 25|551|77|35|663|Buffalo
+95|Precinct 26|597|131|28|756|Buffalo
+96|Precinct 27|256|69|19|344|Buffalo
+97|Precinct 28|565|79|13|657|Buffalo
+98|Precinct 29|554|76|22|652|Buffalo
+99|Precinct 1 (1)|155|30|7|192|Cedar
+100|Precinct 2 (2-3)|351|51|9|411|Cedar
+101|Precicnt 3 (4)|173|23|5|201|Cedar
+102|Precicnt 4 (5-6-7)|356|50|12|418|Cedar
+103|Precinct 5 (13-14)|137|22|6|165|Cedar
+104|Precinct 6 (8-9)|976|139|29|1144|Cedar
+105|Precicnt 7 (9A)|76|13|7|96|Cedar
+106|Precinct 8 (10-11-12)|240|20|4|264|Cedar
+107|Precinct 9 (15-16)|393|51|9|453|Cedar
+108|Precicnt 10 (17-18)|132|9|6|147|Cedar
+109|Precinct 11 (19)|464|66|11|541|Cedar
+110|Precinct 12 (20)|99|25|7|131|Cedar
+111|Precicnt 13 (21)|531|84|23|638|Cedar
+112|Champion/Lamar|269|20|4|293|Chase
+113|Imperial East|282|39|8|329|Chase
+114|Imperial West|544|48|13|605|Chase
+115|Imperial Rural|335|16|4|355|Chase
+116|Wauneta|350|31|6|387|Chase
+117|Barley|34|0|4|38|Cherry
+118|Cleveland|67|4|6|77|Cherry
+119|Cody|178|14|11|203|Cherry
+120|Crookston|111|9|6|126|Cherry
+121|Gillaspie|18|0|1|19|Cherry
+122|Goose Creek|77|0|4|81|Cherry
+123|Kennedy|29|0|1|30|Cherry
+124|Kilgore|62|7|5|74|Cherry
+125|King|19|0|1|20|Cherry
+126|Lackey|53|1|2|56|Cherry
+127|Loup|130|3|4|137|Cherry
+128|Merriman|121|6|8|135|Cherry
+129|Mother Lake|37|0|4|41|Cherry
+130|Nenzel|28|6|0|34|Cherry
+131|Russell|21|0|1|22|Cherry
+132|Valentine East|528|83|24|635|Cherry
+133|Valentine North|625|89|31|745|Cherry
+134|Valentine South|378|44|13|435|Cherry
+135|Wells|80|3|1|84|Cherry
+136|Wood Lake|77|8|8|93|Cherry
+137|Sidney 1|404|110|24|538|Cheyenne
+138|Sidney 2|569|94|33|696|Cheyenne
+139|Sidney 3|434|109|26|569|Cheyenne
+140|Sidney 4|470|103|15|588|Cheyenne
+141|Sidney 5|816|141|38|995|Cheyenne
+142|Gurley|261|27|10|298|Cheyenne
+143|Lodgepole|345|47|10|402|Cheyenne
+144|Potter|298|24|18|340|Cheyenne
+145|Union Valley|242|34|8|284|Cheyenne
+146|Harvard Cons.|366|79|40|485|Clay
+147|Inland Leicester|189|36|6|231|Clay
+148|Sutton 1st|361|63|10|434|Clay
+149|Sutton 2nd|329|58|7|394|Clay
+150|Sutton Twps|257|23|6|286|Clay
+151|Glenvil|189|20|7|216|Clay
+152|Spring Ranch FF 2nd|184|19|7|210|Clay
+153|Fairfield 1st|151|38|9|198|Clay
+154|Edgar Cons.|305|51|14|370|Clay
+155|Clay Center City|327|64|18|409|Clay
+156|LLLM Cons.|221|29|7|257|Clay
+341|Eustis|326|44|2|372|Frontier
+342|Stockville|242|28|1|271|Frontier
+343|Curtis|397|40|13|450|Frontier
+344|Maywood|186|26|5|217|Frontier
+345|Garden Prairie|97|4|4|105|Frontier
+346|Arapahoe|562|65|23|650|Furnas
+347|Beaver City|334|53|11|398|Furnas
+348|Cambridge|595|85|15|695|Furnas
+349|Edison|96|12|0|108|Furnas
+350|Hendley|92|7|3|102|Furnas
+351|Holbrook|149|16|10|175|Furnas
+352|Oxford|294|41|16|351|Furnas
+353|Wilsonville|77|14|3|94|Furnas
+354|Adams Area|919|214|31|1164|Gage
+355|Odell Area|419|97|20|536|Gage
+356|Filley/Virginia Area|472|112|26|610|Gage
+357|NW Quad Area|918|290|52|1260|Gage
+358|Homestead Area|598|147|25|770|Gage
+359|Wymore Area|716|236|48|1000|Gage
+360|Beatrice Ward 1|995|375|53|1423|Gage
+361|Beatrice Ward 2|988|381|78|1447|Gage
+362|Beatrice Ward 3|686|267|80|1033|Gage
+363|Beatrice Ward 4|1026|410|67|1503|Gage
+364|Lisco|92|10|2|104|Garden
+365|Oshkosh 1|255|44|10|309|Garden
+366|Lost Creek|367|47|17|431|Garden
+367|Blue Creek|268|35|15|318|Garden
+368|(Countywide) Nebraska PPD|0|0|0|0|Garden
+369|Ward I City of Burwell|271|41|3|315|Garfield
+370|Ward II City of Burwell|248|27|8|283|Garfield
+371|Rural Garfield County|405|21|13|439|Garfield
+372|1|374|28|10|412|Gosper
+373|2|328|71|5|404|Gosper
+374|3|196|18|3|217|Gosper
+375|4|65|7|3|75|Gosper
+376|Grant County|360|14|10|384|Grant
+377|Scotia|198|34|4|236|Greeley
+378|Spalding|370|52|6|428|Greeley
+379|Wolbach|159|23|8|190|Greeley
+380|Greeley|270|67|11|348|Greeley
+381|(Countywide) Loup Valleys Rural PPD|0|0|0|0|Greeley
+382|One|592|309|55|956|Hall
+383|Two|232|165|21|418|Hall
+384|Three|569|301|49|919|Hall
+385|Four|553|247|37|837|Hall
+386|Five|834|266|26|1126|Hall
+387|Six|749|267|44|1060|Hall
+388|Seven|633|287|44|964|Hall
+389|Eight|695|375|55|1125|Hall
+390|Nine|866|356|49|1271|Hall
+391|Ten|695|329|65|1089|Hall
+392|Eleven|689|281|38|1008|Hall
+393|Twelve|410|292|41|743|Hall
+394|Thirteen|1176|337|64|1577|Hall
+395|Fourteen|1323|309|49|1681|Hall
+396|Fifteen|1184|344|61|1589|Hall
+397|Sixteen|882|261|50|1193|Hall
+398|Seventeen|550|212|36|798|Hall
+399|Eighteen|701|267|30|998|Hall
+400|Nineteen|457|137|26|620|Hall
+401|Twenty|0|0|0|0|Hall
+402|Twenty-one|584|83|39|706|Hall
+403|Twenty-two|870|200|45|1115|Hall
+404|Twenty-three|364|69|22|455|Hall
+405|Twenty-four|898|181|45|1124|Hall
+406|Twenty-five|0|0|0|0|Hall
+407|Twenty-six|0|0|0|0|Hall
+408|Precinct 1|187|17|7|211|Hamilton
+409|Precinct 2|393|73|19|485|Hamilton
+410|Precinct 3|408|64|28|500|Hamilton
+411|Precinct 4|156|18|6|180|Hamilton
+412|Precinct 5|460|58|26|544|Hamilton
+413|Precinct 6|226|20|17|263|Hamilton
+414|Precinct 7|360|42|7|409|Hamilton
+415|Precinct 8|274|44|15|333|Hamilton
+416|Ward 1|766|162|41|969|Hamilton
+417|Ward 2|553|122|34|709|Hamilton
+418|Ward 3|554|180|40|774|Hamilton
+419|Republican City|199|27|2|228|Harlan
+420|Huntley-Ragan|194|27|4|225|Harlan
+421|East Alma|206|17|5|228|Harlan
+422|Central Alma|214|34|8|256|Harlan
+423|West Alma|206|38|4|248|Harlan
+424|Orleans|270|36|4|310|Harlan
+232|MASON CITY|217|17|7|241|Custer
+233|ARNOLD|400|39|16|455|Custer
+234|ANSLEY/M/W|394|42|14|450|Custer
+235|BROKEN BOW NORTH|139|34|7|180|Custer
+236|BROKEN BOW NORTH RURAL|211|26|7|244|Custer
+237|BROKEN BOW SOUTH|507|99|28|634|Custer
+238|BROKEN BOW SOUTHWEST|233|36|7|276|Custer
+239|BERWYN|117|12|6|135|Custer
+240|CUSTER|50|4|0|54|Custer
+241|EAST CUSTER|24|2|1|27|Custer
+242|MERNA COMMUNITY BLDG|364|27|14|405|Custer
+243|COMSTOCK/DG/SC|121|23|2|146|Custer
+244|DELIGHT|354|35|21|410|Custer
+245|ELIM|72|0|1|73|Custer
+246|TRIUMPH|69|5|2|76|Custer
+247|GAR/LIL/MIL|156|8|3|167|Custer
+248|GRANT|21|3|1|25|Custer
+249|LOUP|80|2|4|86|Custer
+250|SARGENT RUR/C/WU|125|15|3|143|Custer
+251|SARGENT VILLAGE|227|27|11|265|Custer
+252|RYNO|53|4|5|62|Custer
+253|ANSELMO|215|16|10|241|Custer
+254|WOODRIVER|147|20|4|171|Custer
+255|WAYNE|76|2|1|79|Custer
+256|BROKEN BOW NORTHWEST|433|63|12|508|Custer
+257|BROKEN BOW SOUTH RURAL|201|12|7|220|Custer
+258|SARGENT VILLAGE|0|0|0|0|Custer
+259|RYNO|0|0|0|0|Custer
+260|ANSELMO|0|0|0|0|Custer
+261|WOODRIVER|0|0|0|0|Custer
+262|WAYNE|0|0|0|0|Custer
+263|BB NORTHWEST|0|0|0|0|Custer
+264|BB SOUTH RURAL|0|0|0|0|Custer
+265|01 - SSC Ward 1|200|230|11|441|Dakota
+266|02 - SSC Ward 2|367|401|36|804|Dakota
+267|03 - SSC Ward 3|338|339|37|714|Dakota
+268|04 - SSC Ward 4A|251|210|14|475|Dakota
+269|05 - SSC Ward 4AA|213|130|13|356|Dakota
+270|06 - SSC Ward 4B|380|285|18|683|Dakota
+271|07 - Covington Island|556|213|20|789|Dakota
+272|08 - Dakota City|392|221|21|634|Dakota
+273|09 - Dakota Rural|175|62|8|245|Dakota
+274|10 - Emerson|154|44|6|204|Dakota
+275|11 - Hubbard|151|75|12|238|Dakota
+276|12 - Omadi|394|75|13|482|Dakota
+277|13 - St. Johns|301|100|23|424|Dakota
+278|Precinct 1|144|71|4|219|Dawes
+279|Precinct 2|423|169|24|616|Dawes
+280|Precinct 3|329|147|25|501|Dawes
+281|Precinct 4|276|113|17|406|Dawes
+282|Precinct 5|216|121|17|354|Dawes
+283|Precinct 6|335|59|22|416|Dawes
+284|Precinct 7|187|37|12|236|Dawes
+285|Precinct 8|322|57|11|390|Dawes
+286|Precinct 9|128|21|3|152|Dawes
+287|Precinct 10|365|58|18|441|Dawes
+288|Precinct 11|238|34|9|281|Dawes
+289|Coyote|194|27|10|231|Dawson
+290|Cozad East|684|127|29|840|Dawson
+291|Cozad West|649|132|29|810|Dawson
+292|Fairview|120|22|0|142|Dawson
+293|Farnam|120|10|3|133|Dawson
+294|German|152|6|1|159|Dawson
+295|Gillan|219|29|16|264|Dawson
+296|Gothenburg East|760|136|27|923|Dawson
+297|Gothenburg West|719|134|39|892|Dawson
+298|Grant|219|36|10|265|Dawson
+299|Kennebec|83|9|2|94|Dawson
+300|Lexington 1st|245|183|16|444|Dawson
+301|Lexington 2nd|471|244|16|731|Dawson
+302|Lexington 3rd|556|294|20|870|Dawson
+303|Lexington 4th|122|126|4|252|Dawson
+304|Lexington 5th|286|269|14|569|Dawson
+305|Overton|465|56|23|544|Dawson
+306|Platte|303|60|11|374|Dawson
+307|Ringgold|187|27|4|218|Dawson
+308|Woodriver|229|19|7|255|Dawson
+309|Chappell|290|42|9|341|Deuel
+310|Swan|282|28|9|319|Deuel
+311|Big Springs|300|35|19|354|Deuel
+312|Logan-Wakefield 3|171|31|8|210|Dixon
+313|Concord-Dixon-Clark|248|38|16|302|Dixon
+314|Daily-Hooker-Newcastle|340|96|9|445|Dixon
+315|Wakefield 1|143|72|6|221|Dixon
+316|Wakefield 2|100|39|5|144|Dixon
+317|Springbank|264|43|16|323|Dixon
+318|Galena-Silvercreek|201|30|8|239|Dixon
+319|Emerson|85|22|6|113|Dixon
+320|Ottercreek|96|28|2|126|Dixon
+321|Ponca Township|219|35|9|263|Dixon
+322|Ponca 1|160|58|5|223|Dixon
+323|Ponca 2|188|45|11|244|Dixon
+324|Benkelman I & Ough|338|38|7|383|Dundy
+325|Benkelman II|297|13|8|318|Dundy
+326|Benkelman III|145|10|2|157|Dundy
+327|Haigler|113|12|3|128|Dundy
+328|Exeter Township|272|59|19|350|Fillmore
+329|Fairmont Township|238|37|15|290|Fillmore
+330|West Blue/Grafton/Bennett|189|29|3|221|Fillmore
+331|South Geneva & Geneva Township|376|102|16|494|Fillmore
+332|North Geneva|338|87|10|435|Fillmore
+333|Madison Township|261|61|8|330|Fillmore
+334|Liberty/Glengary/Franklin|291|66|17|374|Fillmore
+335|Chelsea/Stanton/Belle Prairie|181|16|3|200|Fillmore
+336|Momence/Bryant/Hamilton|314|40|15|369|Fillmore
+337|Hildreth|369|59|8|436|Franklin
+338|Campbell|289|39|4|332|Franklin
+339|West Franklin|498|64|17|579|Franklin
+340|East Franklin|298|46|9|353|Franklin
+425|Stamford|148|17|3|168|Harlan
+426|Oxford|205|21|4|230|Harlan
+427|Precinct 1|162|5|3|170|Hayes
+428|Precinct 2|171|9|3|183|Hayes
+429|Precinct 3|158|7|5|170|Hayes
+430|Culbertson|494|43|21|558|Hitchcock
+431|Palisade|147|17|9|173|Hitchcock
+432|Stratton|268|33|9|310|Hitchcock
+433|Trenton|338|47|14|399|Hitchcock
+434|01 Antelope, Iowa & Verdigris|171|30|11|212|Holt
+435|02 Atkinson & Surrounding Twps|542|45|17|604|Holt
+436|03 Chambers & Surrounding Twps|440|34|14|488|Holt
+437|04 Emmet & Northeast Twps|218|18|10|246|Holt
+438|05 Ewing, Golden & Deloit|329|24|16|369|Holt
+439|06 Inman Twp|137|22|8|167|Holt
+440|07 Stuart & Cleveland Twps|439|42|14|495|Holt
+441|08 Grattan & Shields Twps|472|37|18|527|Holt
+442|09 Atkinson Ward I|551|67|22|640|Holt
+443|10 O'Neill Ward I|435|72|23|530|Holt
+444|11 O'Neill Ward II|465|49|13|527|Holt
+445|12 O'Neill Ward III|261|30|14|305|Holt
+446|13 O'Neill Ward IV|242|33|12|287|Holt
+447|Precinct 1|373|43|14|430|Hooker
+448|St. Paul Ward I|567|100|33|700|Howard
+449|St. Paul Ward II|709|160|49|918|Howard
+450|Spring Creek|152|18|3|173|Howard
+451|Elba|246|30|13|289|Howard
+452|Posen|212|34|5|251|Howard
+453|Dannebrog|343|83|26|452|Howard
+454|Loup Fork|177|34|3|214|Howard
+455|St. Libory|358|41|22|421|Howard
+456|Plymouth-Gibson|346|59|17|422|Jefferson
+457|Eureka-Washington|174|25|6|205|Jefferson
+458|Lincoln-Meridian-Fairbury-Rich|248|58|12|318|Jefferson
+459|Cub-Rock Creek|175|31|4|210|Jefferson
+460|Jefferson-Pleasant-Newton|354|74|17|445|Jefferson
+461|Buckley-Antelope-Endicott|356|73|15|444|Jefferson
+462|Ward I|247|90|24|361|Jefferson
+463|Ward II|187|71|13|271|Jefferson
+464|Ward III|317|108|24|449|Jefferson
+465|Ward IV|385|108|22|515|Jefferson
+466|Nemaha I|247|68|10|325|Johnson
+467|Nemaha II|473|157|29|659|Johnson
+468|Sterling|466|125|21|612|Johnson
+469|Spring Creek|226|49|9|284|Johnson
+470|Todd Creek|136|30|3|169|Johnson
+471|Western|75|17|2|94|Johnson
+472|Lowell|89|13|6|108|Kearney
+473|Newark/Blaine|344|72|16|432|Kearney
+474|Logan/Hayes/Sherman|257|22|6|285|Kearney
+475|Liberty/Lincoln/May|222|26|6|254|Kearney
+476|Eaton|89|10|1|100|Kearney
+477|Mirage|409|59|20|488|Kearney
+478|Oneida|232|27|12|271|Kearney
+479|Cosmo/Grant|76|12|2|90|Kearney
+480|North|323|78|21|422|Kearney
+481|South|471|69|23|563|Kearney
+482|Center|406|92|22|520|Kearney
+483|FIRST WARD|296|49|16|361|Keith
+484|SECOND WARD|326|70|25|421|Keith
+485|THIRD WARD|290|69|14|373|Keith
+486|FOURTH WARD|382|54|12|448|Keith
+487|FIFTH WARD|531|105|23|659|Keith
+488|BRULE|373|53|10|436|Keith
+489|LOGAN|142|15|3|160|Keith
+490|LONERGAN|238|53|3|294|Keith
+491|PAXTON|404|45|10|459|Keith
+492|RURAL OGALLALA|449|61|14|524|Keith
+493|WHITETAIL|126|24|10|160|Keith
+494|Garfield|177|9|6|192|Keya Paha
+495|Custer|139|11|4|154|Keya Paha
+496|Mills|148|14|2|164|Keya Paha
+497|1st Ward|574|97|39|710|Kimball
+498|2nd Ward|344|59|13|416|Kimball
+499|Antelope|303|14|14|331|Kimball
+500|Bushnell|126|24|3|153|Kimball
+501|Dix|203|13|6|222|Kimball
+502|Bloomfield Area|587|118|12|717|Knox
+503|Crofton Area|664|121|23|808|Knox
+504|Creighton Area|794|90|36|920|Knox
+505|Center Area|170|33|7|210|Knox
+506|Lindy/Santee Area|182|133|10|325|Knox
+507|Niobrara Area|272|60|18|350|Knox
+508|Verdigre Area|488|80|25|593|Knox
+509|Wausa Area|503|63|15|581|Knox
+510|Precinct 1|562|193|37|792|Lincoln
+511|Precinct 2|388|138|21|547|Lincoln
+512|Precinct 3|365|137|18|520|Lincoln
+513|Precinct 4|340|64|15|419|Lincoln
+514|Precinct 5|268|59|16|343|Lincoln
+515|Precinct 6|1015|264|59|1338|Lincoln
+516|Precinct 7|719|188|26|933|Lincoln
+517|Precinct 8|710|161|21|892|Lincoln
+518|Precinct 9|586|184|35|805|Lincoln
+519|Precinct 10|791|270|56|1117|Lincoln
+520|Precinct 12|411|160|38|609|Lincoln
+521|Precinct 13|749|219|58|1026|Lincoln
+522|Precinct 15|327|103|23|453|Lincoln
+523|Precinct 16|348|98|27|473|Lincoln
+524|Brady|470|65|22|557|Lincoln
+525|Hall|874|102|40|1016|Lincoln
+526|Hershey|822|98|31|951|Lincoln
+527|Hinman|324|42|15|381|Lincoln
+528|Maxwell|357|49|8|414|Lincoln
+529|Medicine|163|12|2|177|Lincoln
+530|Osgood|1065|159|38|1262|Lincoln
+531|Sellers|546|93|11|650|Lincoln
+532|Sutherland|745|126|29|900|Lincoln
+533|Wallace|286|25|5|316|Lincoln
+534|Logan County|395|30|13|438|Logan
+535|Sawyer|383|45|12|440|Loup
+536|Tryon 01|271|19|9|299|McPherson
+537|Silver Creek|235|34|10|279|Merrick
+538|Clarksville East|158|27|14|199|Merrick
+539|Clarksville West|112|27|8|147|Merrick
+540|Prairie Island|108|8|5|121|Merrick
+541|Central|35|5|3|43|Merrick
+542|Lone Tree North|177|22|3|202|Merrick
+543|Midland|101|15|7|123|Merrick
+544|Mead|88|7|1|96|Merrick
+545|Chapman|213|35|16|264|Merrick
+546|Prairie Creek|180|10|9|199|Merrick
+547|Vieregg|316|84|19|419|Merrick
+548|Loup|306|37|20|363|Merrick
+549|Ward 1|611|124|29|764|Merrick
+550|Ward 2|648|129|21|798|Merrick
+551|Lone Tree South|112|12|6|130|Merrick
+552|BROADWATER|136|21|10|167|Morrill
+553|EAST BAYARD|443|76|29|548|Morrill
+554|WEST BAYARD|325|73|32|430|Morrill
+555|NORTH CAMP CLARKE|265|26|10|301|Morrill
+556|EAST CAMP CLARKE|432|59|24|515|Morrill
+557|WEST CAMP CLARKE|342|45|14|401|Morrill
+558|GILCHRIST|36|0|3|39|Morrill
+559|HAYNES|45|2|7|54|Morrill
+560|REDINGTON|48|0|0|48|Morrill
+561|Beav,Genoa,Ccreek,Pcreek|275|36|11|322|Nance
+562|Ctnwd,Lferry,Full,Wnew,Enew|195|43|11|249|Nance
+563|Cedar,Tcreek,Sbranch|159|34|8|201|Nance
+564|Fullerton|443|105|14|562|Nance
+565|Genoa I|160|37|10|207|Nance
+566|Genoa II|165|27|6|198|Nance
+567|Brownville|170|46|5|221|Nemaha
+568|1st Douglas - Glenrock|371|94|23|488|Nemaha
+569|2nd Douglas|334|132|24|490|Nemaha
+570|3rd Douglas|383|88|23|494|Nemaha
+571|4th Douglas|425|82|11|518|Nemaha
+572|Lafayette|127|18|4|149|Nemaha
+573|Nemaha|117|20|6|143|Nemaha
+574|Peru|185|75|14|274|Nemaha
+575|Washington - Benton|415|89|19|523|Nemaha
+576|Beaver 1|332|58|14|404|Nuckolls
+577|Beaver 2|260|42|4|306|Nuckolls
+578|Beaver 3|266|48|3|317|Nuckolls
+579|Elk|133|15|9|157|Nuckolls
+580|Hardy|118|16|1|135|Nuckolls
+581|Nelson|421|62|18|501|Nuckolls
+582|Spring Creek|87|13|1|101|Nuckolls
+583|Victor|289|29|5|323|Nuckolls
+584|Pawnee 1|286|93|15|394|Pawnee
+585|Pawnee 2|275|54|10|339|Pawnee
+586|Burchard|171|17|5|193|Pawnee
+587|Table Rock|177|24|5|206|Pawnee
+588|Steinauer|185|50|5|240|Pawnee
+589|District 1|411|47|8|466|Perkins
+590|District 2|460|55|16|531|Perkins
+591|District 3|473|38|16|527|Perkins
+592|Cottonwood-Anderson|125|13|6|144|Phelps
+593|Williamsburg-Westside|146|8|7|161|Phelps
+594|Garfield-Union|115|14|4|133|Phelps
+595|Westmark-Center|176|17|4|197|Phelps
+596|Divide-Lake|260|21|5|286|Phelps
+597|Sheridan-Prairie|301|22|11|334|Phelps
+598|Rockfalls-Industry|108|7|3|118|Phelps
+599|Laird|285|16|4|305|Phelps
+600|Bertrand|320|35|17|372|Phelps
+601|Ward 1|525|88|28|641|Phelps
+602|Ward 2|545|110|16|671|Phelps
+603|Ward 3|609|96|29|734|Phelps
+604|Ward 4|736|104|25|865|Phelps
+605|Osmond|787|75|30|892|Pierce
+606|Plainview|622|103|23|748|Pierce
+607|Pierce|843|56|17|916|Pierce
+608|South Branch|379|38|13|430|Pierce
+609|Pierce City|771|94|30|895|Pierce
+610|Bartley|206|15|4|225|Red Willow
+611|Beaver|172|10|2|184|Red Willow
+612|Indianola|513|43|17|573|Red Willow
+613|Northwest|456|39|14|509|Red Willow
+614|Southwest|245|34|8|287|Red Willow
+615|Ward 1 Precinct 1|268|61|13|342|Red Willow
+616|Ward 1 Precinct 2|400|71|14|485|Red Willow
+617|Ward 1 Precinct 3|351|51|7|409|Red Willow
+618|Ward 2 Precinct 1|459|66|12|537|Red Willow
+619|Ward 2 Precinct 2|385|63|17|465|Red Willow
+620|Ward 3 Precinct 1|333|77|18|428|Red Willow
+621|Ward 3 Precinct 3|334|61|9|404|Red Willow
+622|Ward 4 Precinct 1|448|72|13|533|Red Willow
+623|Arago/Barada|122|42|3|167|Richardson
+624|FCRural/Ohio|219|40|8|267|Richardson
+625|FC Ward 1|437|143|13|593|Richardson
+626|FC Ward 2|356|91|18|465|Richardson
+627|FC Ward 3|337|95|10|442|Richardson
+628|FC Ward 4|199|100|15|314|Richardson
+629|Fran/Hrr/Spi|169|26|3|198|Richardson
+630|Grant Nemaha|141|33|11|185|Richardson
+631|Humboldt I|141|27|4|172|Richardson
+632|Humboldt II|159|33|7|199|Richardson
+633|Jefferson/Rulo|186|52|12|250|Richardson
+634|Liberty|124|24|5|153|Richardson
+635|East Muddy|88|28|3|119|Richardson
+636|West Muddy/Porter|161|30|6|197|Richardson
+637|Salem|88|15|6|109|Richardson
+638|Rock|747|53|18|818|Rock
+639|Crete 1|372|236|37|645|Saline
+640|Crete 2|250|196|34|480|Saline
+641|Crete 3|327|240|26|593|Saline
+642|C & B|298|102|19|419|Saline
+643|Dorchester|385|115|22|522|Saline
+644|Friend 1|286|48|17|351|Saline
+645|Friend 2|278|49|16|343|Saline
+646|Wilber 1|431|131|22|584|Saline
+647|Wilber 2|314|71|12|397|Saline
+648|Olive|135|37|6|178|Saline
+649|South Fork|174|40|17|231|Saline
+650|DeWitt|319|95|12|426|Saline
+651|Castle Rock A|156|33|12|201|Scotts Bluff
+652|Castle Rock B|101|16|9|126|Scotts Bluff
+653|Dewey-Tabor|413|73|31|517|Scotts Bluff
+654|East Winter Creek|280|70|20|370|Scotts Bluff
+655|Fanning|530|72|31|633|Scotts Bluff
+656|Ford A & B|234|49|10|293|Scotts Bluff
+657|Funston|270|52|11|333|Scotts Bluff
+658|Gering (Rural)|357|57|17|431|Scotts Bluff
+659|Gering I|932|300|52|1284|Scotts Bluff
+660|Gering II|602|257|73|932|Scotts Bluff
+661|Gering III|397|162|35|594|Scotts Bluff
+662|Gering IV|697|224|50|971|Scotts Bluff
+663|Highland|187|28|7|222|Scotts Bluff
+664|Kiowa-Lyman|278|40|19|337|Scotts Bluff
+665|Minatare I & II|173|61|13|247|Scotts Bluff
+666|Mitchell (Rural)|207|37|11|255|Scotts Bluff
+667|Mitchell I|199|73|24|296|Scotts Bluff
+668|Mitchell II|223|63|29|315|Scotts Bluff
+669|Morrill|313|65|31|409|Scotts Bluff
+670|Roubadeau|54|8|5|67|Scotts Bluff
+671|Scottsbluff 1|698|221|36|955|Scotts Bluff
+672|Scottsbluff 2|571|296|50|917|Scotts Bluff
+673|Scottsbluff 3|212|190|29|431|Scotts Bluff
+674|Scottsbluff 4|115|106|11|232|Scotts Bluff
+675|Scottsbluff 5|413|168|35|616|Scotts Bluff
+676|Scottsbluff 6|352|164|46|562|Scotts Bluff
+677|Scottsbluff 7|423|196|49|668|Scotts Bluff
+678|Scottsbluff 8|504|197|37|738|Scotts Bluff
+679|Terrytown I & II|258|88|27|373|Scotts Bluff
+680|West Winter Creek|513|144|34|691|Scotts Bluff
+681|East Gordon|327|41|15|383|Sheridan
+682|West Gordon|343|62|14|419|Sheridan
+683|North Rushville|339|39|14|392|Sheridan
+684|South Rushville|235|44|6|285|Sheridan
+685|HaySprings|403|57|24|484|Sheridan
+686|Mirage Flats|154|13|8|175|Sheridan
+687|South Sheridan|266|17|17|300|Sheridan
+688|Wounded Knee|152|7|10|169|Sheridan
+689|(Countywide) Nebraska PPD|0|0|0|0|Sheridan
+690|Ashton|198|36|9|243|Sherman
+691|Rockville|204|33|5|242|Sherman
+692|North LC|235|86|11|332|Sherman
+693|Central LC|155|35|3|193|Sherman
+694|South LC|216|45|9|270|Sherman
+695|Harrison|312|28|14|354|Sherman
+696|Bowen|378|40|10|428|Sioux
+697|Sheep Creek|260|20|10|290|Sioux
+698|Alex/Gilead|176|27|7|210|Thayer
+699|Bruning/Belvidere|287|35|10|332|Thayer
+700|Chester/Byron/Hubbell|379|51|6|436|Thayer
+701|Davenport/Carleton|324|54|9|387|Thayer
+702|Deshler|392|83|15|490|Thayer
+703|Hebron North|415|90|17|522|Thayer
+704|Hebron South|403|79|13|495|Thayer
+705|Thomas|360|41|12|413|Thomas
+706|Precinct 1|308|35|5|348|Valley
+707|Precinct 2|262|38|10|310|Valley
+708|Precinct 3|292|48|11|351|Valley
+709|Precinct 4|307|58|8|373|Valley
+710|Precinct 5|262|42|7|311|Valley
+711|Precinct 6|232|43|3|278|Valley
+712|Precinct 7|281|31|7|319|Valley
+713|Hoskins/Garfield|386|39|14|439|Wayne
+714|Chapin/Hancock/Winside|381|44|17|442|Wayne
+715|Deer Creek/Sherman|239|24|10|273|Wayne
+716|Brenna/Plum Creek/Hunter|313|50|12|375|Wayne
+717|Strahan/Wilbur|259|22|6|287|Wayne
+718|Logan/Leslie|208|54|10|272|Wayne
+719|First Ward|303|143|25|471|Wayne
+720|Second Ward|307|93|5|405|Wayne
+721|Third Ward|290|149|13|452|Wayne
+722|Fourth Ward|447|176|32|655|Wayne
+723|(Countywide) Cuming PPD|0|0|0|0|Wayne
+724|(Countywide) Stanton County PPD|0|0|0|0|Wayne
+725|Bladen|211|22|6|239|Webster
+726|Blue Hill|457|86|17|560|Webster
+727|Guide Rock|223|25|4|252|Webster
+728|Red Cloud 1st|255|51|10|316|Webster
+729|Red Cloud 2nd|386|61|14|461|Webster
+730|Bartlett|295|33|9|337|Wheeler
+731|Ericson|137|10|3|150|Wheeler
+732|Stewart-Thayer|287|51|9|347|York
+733|New York-Waco-Beaver-West Blue|507|73|13|593|York
+734|Hays-McFadden|379|60|13|452|York
+735|LeRoy-Baker|272|35|8|315|York
+736|MABL|545|99|13|657|York
+737|Brown-Henderson|757|110|26|893|York
+738|Ward 1|494|82|17|593|York
+739|Ward 2A|427|111|36|574|York
+740|Ward 2B|418|104|34|556|York
+741|Ward 3|339|105|25|469|York
+742|Ward 4A|618|150|23|791|York
+743|Ward 4B|498|137|28|663|York

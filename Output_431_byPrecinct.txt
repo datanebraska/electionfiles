@@ -1,0 +1,1399 @@
+Id|Precinct|For|Against|Totals|TabName
+1|WestBlue/Highland|177|156|333|Adams
+2|Verona|78|66|144|Adams
+3|Kenesaw|303|264|567|Adams
+4|Juniata|267|213|480|Adams
+5|Denver|331|262|593|Adams
+6|Blaine|51|44|95|Adams
+7|Pauline|89|76|165|Adams
+8|Ayr|211|156|367|Adams
+9|Roseland|145|101|246|Adams
+10|Holstein|88|80|168|Adams
+11|1-A|449|305|754|Adams
+12|1-B|323|216|539|Adams
+13|1-C|301|177|478|Adams
+14|2-A|194|126|320|Adams
+15|2-B|367|224|591|Adams
+16|2-C|345|178|523|Adams
+17|2-D|571|322|893|Adams
+18|2-E|404|212|616|Adams
+19|3-A|404|194|598|Adams
+20|3-B|353|171|524|Adams
+21|3-C|440|227|667|Adams
+22|3-D|82|47|129|Adams
+23|3-E|741|377|1118|Adams
+24|4-A|311|131|442|Adams
+25|4-B|354|167|521|Adams
+26|4-C|223|86|309|Adams
+27|4-D|517|324|841|Adams
+28|4-E|133|81|214|Adams
+29|Tilden Precinct|71|74|145|Antelope
+30|Tilden 1st Ward|76|56|132|Antelope
+31|Oakdale Precinct|126|107|233|Antelope
+32|Neligh Precinct|118|124|242|Antelope
+33|Neligh 1st Ward|190|166|356|Antelope
+34|Neligh 2nd Ward|166|145|311|Antelope
+35|Brunswick Precinct|139|182|321|Antelope
+36|Elgin 1st Ward|78|84|162|Antelope
+37|Elgin 2nd Ward|113|70|183|Antelope
+38|Elgin Precinct|90|106|196|Antelope
+39|Royal Precinct|50|59|109|Antelope
+40|Clearwater Precinct|188|187|375|Antelope
+41|Orchard Precinct|140|135|275|Antelope
+42|Arthur|0|0|0|Arthur
+43|Long Springs|180|194|374|Banner
+44|Blaine|111|166|277|Blaine
+45|Boone|59|66|125|Boone
+46|Beaver|177|187|364|Boone
+47|Cedar|165|155|320|Boone
+48|Dublin-Bonanza|68|68|136|Boone
+49|North Branch-Shell Creek|32|49|81|Boone
+50|North Manchester|244|182|426|Boone
+51|Oakland|200|190|390|Boone
+52|Southeast Manchester|294|229|523|Boone
+53|Southwest Manchester|284|209|493|Boone
+54|New/Former Resident|0|0|0|Boone
+55|Precinct 1|287|210|497|Box Butte
+56|Precinct 2|295|248|543|Box Butte
+57|Precinct 3|267|193|460|Box Butte
+58|Precinct 4|309|253|562|Box Butte
+59|Precinct 5|429|305|734|Box Butte
+60|Precinct 6|373|265|638|Box Butte
+61|Precinct 11|163|168|331|Box Butte
+62|Precinct 12|154|177|331|Box Butte
+63|Precinct 15|363|335|698|Box Butte
+64|Butte Basin McCulley|152|180|332|Boyd
+65|Lynch Bristow Mullen Bush|105|104|209|Boyd
+66|Spencer Morton|168|208|376|Boyd
+67|Ainsworth Precinct|197|251|448|Brown
+68|City of Ainsworth|398|344|742|Brown
+69|The Pines|170|169|339|Brown
+70|Precinct 1|602|309|911|Buffalo
+71|Precinct 2|493|259|752|Buffalo
+72|Precinct 3|689|379|1068|Buffalo
+73|Precinct 4|969|537|1506|Buffalo
+74|Precinct 5|422|272|694|Buffalo
+75|Precinct 6|817|439|1256|Buffalo
+76|Precinct 7|636|307|943|Buffalo
+77|Precinct 8|327|200|527|Buffalo
+78|Precinct 9|516|284|800|Buffalo
+79|Precinct 10|805|482|1287|Buffalo
+80|Precinct 11|402|215|617|Buffalo
+81|Precinct 12|452|265|717|Buffalo
+82|Precinct 13|917|562|1479|Buffalo
+83|Precinct 14|681|478|1159|Buffalo
+84|Precinct 15|117|152|269|Buffalo
+85|Precinct 16|278|266|544|Buffalo
+86|Precinct 17|131|134|265|Buffalo
+87|Precinct 18|357|287|644|Buffalo
+88|Precinct 19|266|282|548|Buffalo
+89|Precinct 20|587|473|1060|Buffalo
+90|Precinct 21|227|244|471|Buffalo
+91|Precinct 22|178|130|308|Buffalo
+92|Precinct 23|212|146|358|Buffalo
+93|Precinct 24|389|296|685|Buffalo
+94|Precinct 25|316|310|626|Buffalo
+95|Precinct 26|441|286|727|Buffalo
+96|Precinct 27|217|107|324|Buffalo
+97|Precinct 28|337|303|640|Buffalo
+98|Precinct 29|328|270|598|Buffalo
+99|ARIZONA-RIVERSIDE|115|94|209|Burt
+100|BELL-OAK-PERSH|148|122|270|Burt
+101|CRAIG|136|85|221|Burt
+102|DECATUR-QUINN|176|128|304|Burt
+103|EVERETT-LOGAN|85|106|191|Burt
+104|LYONS CITY|235|154|389|Burt
+105|OAKLAND I|214|96|310|Burt
+106|OAKLAND II|182|102|284|Burt
+107|SILVERCREEK-SUMMIT|178|124|302|Burt
+108|TEKAMAH I|293|149|442|Burt
+109|TEKAMAH II|255|160|415|Burt
+110|Linwood-Skull Creek-Platte|156|156|312|Butler
+111|Savannah-Alexis|344|251|595|Butler
+112|Summit-Reading|211|132|343|Butler
+113|Franklin-Bone Creek|162|113|275|Butler
+114|Oak Creek-Center|200|155|355|Butler
+115|Union-Olive|117|126|243|Butler
+116|Read-Ulysses|120|132|252|Butler
+117|Plum Creek-Richardson|158|158|316|Butler
+118|First Ward|205|140|345|Butler
+119|Second Ward|223|161|384|Butler
+120|Third Ward|284|180|464|Butler
+121|Tipton|773|400|1173|Cass
+122|McKelverly|150|107|257|Cass
+123|Salt Creek|309|175|484|Cass
+124|Stove Creek|348|209|557|Cass
+125|Murdock|246|135|381|Cass
+126|South Bend|412|189|601|Cass
+127|Buccaneer Bay|650|223|873|Cass
+128|Center|188|130|318|Cass
+129|East Louisville|340|152|492|Cass
+130|West Louisville|374|226|600|Cass
+131|Avoca|163|102|265|Cass
+132|Mount Pleasant|79|58|137|Cass
+133|Eight Mile Grove|446|213|659|Cass
+134|Nehawka|106|79|185|Cass
+135|Liberty|213|129|342|Cass
+136|North Rock Bluff|441|184|625|Cass
+137|South Rock Bluff|716|347|1063|Cass
+138|West Rock Bluff|217|133|350|Cass
+139|North Plattsmouth|369|167|536|Cass
+140|South Plattsmouth|497|301|798|Cass
+141|Weeping Water 1st Ward|183|105|288|Cass
+142|Weeping Water 2nd Ward|204|90|294|Cass
+143|1st Ward - 1st Precinct|253|97|350|Cass
+144|1st Ward - 2nd Precinct|192|138|330|Cass
+145|2nd Ward - 1st Precinct|241|134|375|Cass
+146|2nd Ward - 2nd Precinct|217|119|336|Cass
+147|3rd Ward - 1st Precinct|232|132|364|Cass
+148|3rd Ward - 2nd Precinct|216|115|331|Cass
+149|4th Ward - 1st Precinct|171|85|256|Cass
+150|4th Ward - 2nd Precinct|233|117|350|Cass
+151|Precinct 1 (1)|95|87|182|Cedar
+152|Precinct 2 (2-3)|197|194|391|Cedar
+153|Precicnt 3 (4)|87|98|185|Cedar
+154|Precicnt 4 (5-6-7)|186|202|388|Cedar
+155|Precinct 5 (13-14)|75|84|159|Cedar
+156|Precinct 6 (8-9)|586|490|1076|Cedar
+157|Precicnt 7 (9A)|47|46|93|Cedar
+158|Precinct 8 (10-11-12)|128|118|246|Cedar
+159|Precinct 9 (15-16)|203|215|418|Cedar
+160|Precicnt 10 (17-18)|56|79|135|Cedar
+161|Precinct 11 (19)|295|214|509|Cedar
+162|Precinct 12 (20)|53|70|123|Cedar
+163|Precicnt 13 (21)|343|264|607|Cedar
+164|Champion/Lamar|123|149|272|Chase
+165|Imperial East|161|148|309|Chase
+166|Imperial West|286|260|546|Chase
+167|Imperial Rural|157|161|318|Chase
+168|Wauneta|179|168|347|Chase
+169|Barley|5|26|31|Cherry
+170|Cleveland|25|46|71|Cherry
+171|Cody|89|94|183|Cherry
+172|Crookston|47|71|118|Cherry
+173|Gillaspie|4|15|19|Cherry
+174|Goose Creek|9|65|74|Cherry
+175|Kennedy|3|18|21|Cherry
+176|Kilgore|24|48|72|Cherry
+177|King|6|12|18|Cherry
+178|Lackey|14|36|50|Cherry
+179|Loup|52|70|122|Cherry
+180|Merriman|54|71|125|Cherry
+181|Mother Lake|17|22|39|Cherry
+182|Nenzel|10|21|31|Cherry
+183|Russell|5|17|22|Cherry
+184|Valentine East|302|292|594|Cherry
+185|Valentine North|356|351|707|Cherry
+186|Valentine South|192|215|407|Cherry
+187|Wells|24|51|75|Cherry
+188|Wood Lake|26|60|86|Cherry
+189|Sidney 1|279|227|506|Cheyenne
+190|Sidney 2|357|309|666|Cheyenne
+191|Sidney 3|311|226|537|Cheyenne
+192|Sidney 4|285|251|536|Cheyenne
+193|Sidney 5|529|411|940|Cheyenne
+194|Gurley|131|146|277|Cheyenne
+195|Lodgepole|185|190|375|Cheyenne
+196|Potter|137|165|302|Cheyenne
+197|Union Valley|143|120|263|Cheyenne
+198|Harvard Cons.|251|219|470|Clay
+199|Inland Leicester|107|112|219|Clay
+200|Sutton 1st|209|192|401|Clay
+201|Sutton 2nd|199|180|379|Clay
+202|Sutton Twps|118|138|256|Clay
+203|Glenvil|103|104|207|Clay
+204|Spring Ranch FF 2nd|88|114|202|Clay
+205|Fairfield 1st|98|88|186|Clay
+206|Edgar Cons.|190|164|354|Clay
+207|Clay Center City|235|154|389|Clay
+208|LLLM Cons.|112|122|234|Clay
+209|Schuyler 1|316|240|556|Colfax
+210|Schuyler 2|490|337|827|Colfax
+211|Schuyler 3|418|285|703|Colfax
+212|Clarkson 4|404|301|705|Colfax
+213|Howells 5|265|192|457|Colfax
+433|Nickerson/Maple Townships|312|193|505|Dodge
+434|City of Hooper|294|143|437|Dodge
+435|Hooper/Logan Townships|232|194|426|Dodge
+436|Elkhorn Township|114|78|192|Dodge
+437|Union/Cott/Ridg/PV Townships|314|234|548|Dodge
+438|(Countywide) Burt County PPD|0|0|0|Dodge
+439|(Countywide) Cuming PPD|0|0|0|Dodge
+440|01-02|871|326|1197|Douglas
+441|01-03|725|185|910|Douglas
+442|01-04|806|266|1072|Douglas
+443|01-05|879|220|1099|Douglas
+444|01-07|1084|255|1339|Douglas
+445|01-08|1055|224|1279|Douglas
+446|01-09|747|185|932|Douglas
+447|01-10|430|150|580|Douglas
+448|01-11|796|237|1033|Douglas
+449|01-12|88|33|121|Douglas
+450|01-13|1163|291|1454|Douglas
+451|01-14|1451|205|1656|Douglas
+452|01-15|1208|323|1531|Douglas
+453|01-16|696|224|920|Douglas
+454|01-17|1048|186|1234|Douglas
+455|01-18|1431|228|1659|Douglas
+456|01-19|1057|206|1263|Douglas
+457|01-20|812|252|1064|Douglas
+458|01-21|1004|240|1244|Douglas
+459|01-22|821|224|1045|Douglas
+460|01-23|804|221|1025|Douglas
+461|01-24|825|200|1025|Douglas
+462|01-25|683|206|889|Douglas
+463|01-26|866|96|962|Douglas
+307|BCN|258|155|413|Cuming
+308|BL|262|166|428|Cuming
+309|SSGC|321|226|547|Cuming
+310|SW4|260|191|451|Cuming
+311|WP2|349|175|524|Cuming
+312|BGW|403|315|718|Cuming
+313|WP1&3|502|273|775|Cuming
+314|MASON CITY|97|113|210|Custer
+315|ARNOLD|206|216|422|Custer
+316|ANSLEY/M/W|169|235|404|Custer
+317|BROKEN BOW NORTH|93|75|168|Custer
+318|BROKEN BOW NORTH RURAL|125|106|231|Custer
+319|BROKEN BOW SOUTH|340|259|599|Custer
+320|BROKEN BOW SOUTHWEST|146|108|254|Custer
+321|BERWYN|58|71|129|Custer
+322|CUSTER|25|29|54|Custer
+323|EAST CUSTER|13|14|27|Custer
+324|MERNA COMMUNITY BLDG|173|198|371|Custer
+325|COMSTOCK/DG/SC|71|62|133|Custer
+326|DELIGHT|183|175|358|Custer
+327|ELIM|29|41|70|Custer
+328|TRIUMPH|33|33|66|Custer
+329|GAR/LIL/MIL|61|81|142|Custer
+330|GRANT|10|12|22|Custer
+331|LOUP|31|45|76|Custer
+332|SARGENT RUR/C/WU|68|66|134|Custer
+333|SARGENT VILLAGE|135|121|256|Custer
+334|RYNO|21|33|54|Custer
+335|ANSELMO|98|116|214|Custer
+336|WOODRIVER|78|77|155|Custer
+337|WAYNE|29|40|69|Custer
+338|BROKEN BOW NORTHWEST|273|222|495|Custer
+339|BROKEN BOW SOUTH RURAL|87|108|195|Custer
+340|SARGENT VILLAGE|0|0|0|Custer
+341|RYNO|0|0|0|Custer
+342|ANSELMO|0|0|0|Custer
+343|WOODRIVER|0|0|0|Custer
+344|WAYNE|0|0|0|Custer
+345|BB NORTHWEST|0|0|0|Custer
+346|BB SOUTH RURAL|0|0|0|Custer
+347|01 - SSC Ward 1|247|170|417|Dakota
+348|02 - SSC Ward 2|462|263|725|Dakota
+349|03 - SSC Ward 3|405|277|682|Dakota
+350|04 - SSC Ward 4A|260|156|416|Dakota
+351|05 - SSC Ward 4AA|219|124|343|Dakota
+352|06 - SSC Ward 4B|394|247|641|Dakota
+353|07 - Covington Island|404|343|747|Dakota
+354|08 - Dakota City|359|239|598|Dakota
+355|09 - Dakota Rural|134|102|236|Dakota
+356|10 - Emerson|100|84|184|Dakota
+357|11 - Hubbard|120|110|230|Dakota
+358|12 - Omadi|237|201|438|Dakota
+359|13 - St. Johns|217|177|394|Dakota
+360|Precinct 1|134|80|214|Dawes
+361|Precinct 2|355|237|592|Dawes
+362|Precinct 3|307|179|486|Dawes
+363|Precinct 4|259|144|403|Dawes
+364|Precinct 5|210|127|337|Dawes
+365|Precinct 6|188|215|403|Dawes
+366|Precinct 7|94|124|218|Dawes
+367|Precinct 8|204|174|378|Dawes
+368|Precinct 9|62|74|136|Dawes
+369|Precinct 10|203|218|421|Dawes
+370|Precinct 11|127|139|266|Dawes
+371|Coyote|101|105|206|Dawson
+372|Cozad East|399|352|751|Dawson
+373|Cozad West|416|295|711|Dawson
+374|Fairview|62|62|124|Dawson
+375|Farnam|65|57|122|Dawson
+376|German|70|80|150|Dawson
+377|Gillan|111|137|248|Dawson
+378|Gothenburg East|500|337|837|Dawson
+379|Gothenburg West|438|365|803|Dawson
+380|Grant|134|105|239|Dawson
+381|Kennebec|35|40|75|Dawson
+382|Lexington 1st|228|166|394|Dawson
+383|Lexington 2nd|424|237|661|Dawson
+384|Lexington 3rd|452|312|764|Dawson
+385|Lexington 4th|147|86|233|Dawson
+386|Lexington 5th|321|197|518|Dawson
+387|Overton|257|247|504|Dawson
+388|Platte|194|149|343|Dawson
+389|Ringgold|103|91|194|Dawson
+390|Woodriver|112|108|220|Dawson
+391|Chappell|156|146|302|Deuel
+392|Swan|157|129|286|Deuel
+393|Big Springs|174|162|336|Deuel
+394|Logan-Wakefield 3|93|125|218|Dixon
+395|Concord-Dixon-Clark|148|149|297|Dixon
+396|Daily-Hooker-Newcastle|182|223|405|Dixon
+397|Wakefield 1|141|75|216|Dixon
+398|Wakefield 2|87|52|139|Dixon
+399|Springbank|152|155|307|Dixon
+400|Galena-Silvercreek|100|122|222|Dixon
+401|Emerson|112|90|202|Dixon
+402|Ottercreek|58|59|117|Dixon
+403|Ponca Township|122|129|251|Dixon
+404|Ponca 1|124|95|219|Dixon
+405|Ponca 2|133|103|236|Dixon
+406|Fremont 1A|458|254|712|Dodge
+407|Fremont 1B|407|193|600|Dodge
+408|Fremont 1C|554|260|814|Dodge
+409|Fremont 1D|288|167|455|Dodge
+410|Fremont 1E|506|202|708|Dodge
+411|Fremont 2A|312|129|441|Dodge
+412|Fremont 2B|304|131|435|Dodge
+413|Fremont 2C|547|282|829|Dodge
+414|Fremont 2D|209|95|304|Dodge
+415|Fremont 2E|365|161|526|Dodge
+416|Fremont 3A|209|99|308|Dodge
+417|Fremont 3B|134|72|206|Dodge
+418|Fremont 3C|220|126|346|Dodge
+419|Fremont 3D|327|186|513|Dodge
+420|Fremont 3E|317|164|481|Dodge
+421|Fremont 4A|397|193|590|Dodge
+422|Fremont 4B|254|164|418|Dodge
+423|Fremont 4C|562|229|791|Dodge
+424|Fremont 4D|613|269|882|Dodge
+425|Fremont 4E|176|91|267|Dodge
+426|City of North Bend|367|192|559|Dodge
+427|City of Scribner|252|169|421|Dodge
+428|Cuming/Everett Townships|140|96|236|Dodge
+429|Webster Township|231|145|376|Dodge
+430|Pebble Township|123|103|226|Dodge
+431|Platte East|187|92|279|Dodge
+432|Platte West|407|258|665|Dodge
+464|01-27|816|214|1030|Douglas
+465|01-28|803|250|1053|Douglas
+466|01-29|774|235|1009|Douglas
+467|01-30|890|266|1156|Douglas
+468|01-31|1059|285|1344|Douglas
+469|02-01|635|211|846|Douglas
+470|02-02|684|224|908|Douglas
+471|02-03|924|272|1196|Douglas
+472|02-04|536|174|710|Douglas
+473|02-05|465|147|612|Douglas
+474|02-06|530|179|709|Douglas
+475|02-07|533|169|702|Douglas
+476|02-08|543|163|706|Douglas
+477|02-09|560|185|745|Douglas
+478|02-10|509|190|699|Douglas
+479|02-11|752|192|944|Douglas
+480|02-12|818|245|1063|Douglas
+481|02-13|450|144|594|Douglas
+482|02-14|842|226|1068|Douglas
+483|02-15|855|207|1062|Douglas
+484|02-16|628|161|789|Douglas
+485|02-17|725|201|926|Douglas
+486|02-18|362|52|414|Douglas
+487|02-19|555|172|727|Douglas
+488|02-20|513|153|666|Douglas
+489|02-21|541|145|686|Douglas
+490|02-22|468|142|610|Douglas
+491|02-23|553|166|719|Douglas
+492|02-24|691|207|898|Douglas
+493|02-25|914|239|1153|Douglas
+494|03-02|1030|172|1202|Douglas
+495|03-03|1130|164|1294|Douglas
+496|03-04|515|84|599|Douglas
+497|03-05|890|184|1074|Douglas
+498|03-06|864|193|1057|Douglas
+499|03-07|1323|173|1496|Douglas
+500|03-08|940|193|1133|Douglas
+501|03-09|1164|250|1414|Douglas
+502|03-10|571|119|690|Douglas
+503|03-11|418|133|551|Douglas
+504|03-12|797|191|988|Douglas
+505|03-13|851|213|1064|Douglas
+506|03-14|994|252|1246|Douglas
+507|03-15|1123|207|1330|Douglas
+508|03-16|915|136|1051|Douglas
+509|03-17|921|235|1156|Douglas
+510|03-18|940|149|1089|Douglas
+511|03-19|1055|220|1275|Douglas
+512|03-20|1263|181|1444|Douglas
+513|03-21|1065|188|1253|Douglas
+514|03-22|461|188|649|Douglas
+515|03-23|965|222|1187|Douglas
+516|03-24|820|179|999|Douglas
+517|03-25|866|216|1082|Douglas
+518|03-26|924|233|1157|Douglas
+519|04-01|335|140|475|Douglas
+520|04-02|629|253|882|Douglas
+521|04-03|600|203|803|Douglas
+522|04-04|767|279|1046|Douglas
+523|04-05|1027|324|1351|Douglas
+524|04-06|734|294|1028|Douglas
+525|04-07|582|251|833|Douglas
+526|04-08|767|306|1073|Douglas
+527|04-09|423|148|571|Douglas
+528|04-10|602|247|849|Douglas
+529|04-11|720|310|1030|Douglas
+530|04-12|728|330|1058|Douglas
+531|04-13|697|248|945|Douglas
+532|04-14|375|137|512|Douglas
+533|04-15|682|250|932|Douglas
+534|04-16|788|231|1019|Douglas
+535|04-17|506|190|696|Douglas
+536|04-18|471|196|667|Douglas
+537|04-19|744|251|995|Douglas
+538|04-20|667|240|907|Douglas
+539|04-21|965|293|1258|Douglas
+540|05-01|1015|285|1300|Douglas
+541|05-02|1106|236|1342|Douglas
+542|05-03|1114|281|1395|Douglas
+543|05-05|738|253|991|Douglas
+544|05-06|669|226|895|Douglas
+545|05-07|1271|388|1659|Douglas
+546|05-09|985|299|1284|Douglas
+547|05-10|869|310|1179|Douglas
+548|05-11|1041|339|1380|Douglas
+549|05-12|925|361|1286|Douglas
+550|05-13|1236|411|1647|Douglas
+551|05-14|1033|341|1374|Douglas
+552|05-15|1029|265|1294|Douglas
+553|05-16|926|306|1232|Douglas
+554|05-17|1092|330|1422|Douglas
+555|05-18|1036|326|1362|Douglas
+556|05-19|762|289|1051|Douglas
+557|05-23|973|236|1209|Douglas
+558|05-24|887|305|1192|Douglas
+559|05-25|1087|337|1424|Douglas
+560|05-26|669|162|831|Douglas
+561|05-27|729|232|961|Douglas
+562|05-28|804|279|1083|Douglas
+563|05-30|1073|314|1387|Douglas
+564|05-31|1036|315|1351|Douglas
+565|05-32|625|200|825|Douglas
+566|05-33|294|66|360|Douglas
+567|05-34|396|144|540|Douglas
+568|05-35|1190|384|1574|Douglas
+569|05-36|921|298|1219|Douglas
+570|06-02|941|225|1166|Douglas
+571|06-03|890|276|1166|Douglas
+572|06-04|941|260|1201|Douglas
+573|06-07|955|203|1158|Douglas
+574|06-08|1114|224|1338|Douglas
+575|06-09|1078|299|1377|Douglas
+576|06-10|1095|306|1401|Douglas
+577|06-11|1178|342|1520|Douglas
+578|06-12|795|298|1093|Douglas
+579|06-13|1201|443|1644|Douglas
+580|06-14|1170|358|1528|Douglas
+581|06-15|879|224|1103|Douglas
+582|06-16|1042|324|1366|Douglas
+583|06-17|824|230|1054|Douglas
+584|06-18|259|90|349|Douglas
+585|06-19|1019|351|1370|Douglas
+586|06-20|968|340|1308|Douglas
+587|06-21|1042|308|1350|Douglas
+588|06-22|1217|398|1615|Douglas
+589|06-23|600|234|834|Douglas
+590|06-24|936|349|1285|Douglas
+591|06-25|928|179|1107|Douglas
+592|06-26|870|224|1094|Douglas
+593|06-27|874|231|1105|Douglas
+594|06-28|1057|309|1366|Douglas
+595|06-29|798|250|1048|Douglas
+596|06-30|522|172|694|Douglas
+597|06-31|1007|294|1301|Douglas
+598|06-32|1141|424|1565|Douglas
+599|06-33|1072|453|1525|Douglas
+600|06-34|1300|342|1642|Douglas
+601|06-35|606|196|802|Douglas
+602|06-36|703|218|921|Douglas
+603|07-01|886|291|1177|Douglas
+604|07-02|1075|306|1381|Douglas
+605|07-03|1008|298|1306|Douglas
+606|07-04|1028|324|1352|Douglas
+607|07-05|1098|276|1374|Douglas
+608|07-09|993|300|1293|Douglas
+609|07-10|1011|303|1314|Douglas
+610|07-11|1000|297|1297|Douglas
+611|07-12|1068|291|1359|Douglas
+612|07-13|1037|355|1392|Douglas
+613|07-14|1048|329|1377|Douglas
+614|07-15|840|256|1096|Douglas
+615|07-16|815|254|1069|Douglas
+616|07-17|908|292|1200|Douglas
+617|07-18|1009|291|1300|Douglas
+618|07-19|1115|270|1385|Douglas
+619|07-20|1083|283|1366|Douglas
+620|07-21|1147|316|1463|Douglas
+621|07-24|879|297|1176|Douglas
+622|07-25|1052|265|1317|Douglas
+623|07-26|991|301|1292|Douglas
+624|07-27|961|293|1254|Douglas
+625|07-28|544|178|722|Douglas
+626|07-29|922|257|1179|Douglas
+627|07-30|920|265|1185|Douglas
+628|07-31|868|222|1090|Douglas
+629|07-32|1020|283|1303|Douglas
+630|07-33|658|189|847|Douglas
+631|07-34|885|254|1139|Douglas
+632|07-35|914|253|1167|Douglas
+633|08-01|480|150|630|Douglas
+634|08-02|329|113|442|Douglas
+635|08-03|352|111|463|Douglas
+636|08-04|445|186|631|Douglas
+637|08-05|358|144|502|Douglas
+638|08-06|317|105|422|Douglas
+639|08-07|541|193|734|Douglas
+640|08-08|290|126|416|Douglas
+641|08-09|502|196|698|Douglas
+642|08-10|98|44|142|Douglas
+643|08-11|853|221|1074|Douglas
+644|08-12|1239|383|1622|Douglas
+645|08-13|1032|424|1456|Douglas
+646|08-14|691|294|985|Douglas
+647|08-15|1072|363|1435|Douglas
+648|08-16|1184|326|1510|Douglas
+649|08-17|1105|312|1417|Douglas
+650|08-19|802|262|1064|Douglas
+651|08-20|1111|364|1475|Douglas
+652|08-23|713|230|943|Douglas
+653|08-24|763|293|1056|Douglas
+654|08-27|65|20|85|Douglas
+655|08-39|440|212|652|Douglas
+656|08-40|1172|528|1700|Douglas
+657|08-41|770|398|1168|Douglas
+658|08-42|1168|367|1535|Douglas
+659|08-43|1266|384|1650|Douglas
+660|08-44|650|156|806|Douglas
+661|08-45|1092|368|1460|Douglas
+662|08-46|1013|343|1356|Douglas
+663|08-47|1091|336|1427|Douglas
+664|08-48|938|352|1290|Douglas
+665|08-49|1434|518|1952|Douglas
+666|08-50|674|214|888|Douglas
+667|08-51|1222|360|1582|Douglas
+668|08-52|679|180|859|Douglas
+669|08-53|638|178|816|Douglas
+670|08-55|1472|471|1943|Douglas
+671|08-56|914|316|1230|Douglas
+672|08-57|1143|362|1505|Douglas
+673|08-58|849|265|1114|Douglas
+674|08-59|1238|376|1614|Douglas
+675|08-60|883|271|1154|Douglas
+676|08-61|1140|386|1526|Douglas
+677|Benkelman I & Ough|177|175|352|Dundy
+678|Benkelman II|144|155|299|Dundy
+679|Benkelman III|58|86|144|Dundy
+680|Haigler|54|65|119|Dundy
+681|Exeter Township|172|148|320|Fillmore
+682|Fairmont Township|147|116|263|Fillmore
+683|West Blue/Grafton/Bennett|112|94|206|Fillmore
+684|South Geneva & Geneva Township|287|172|459|Fillmore
+685|North Geneva|254|161|415|Fillmore
+686|Madison Township|181|103|284|Fillmore
+687|Liberty/Glengary/Franklin|171|157|328|Fillmore
+688|Chelsea/Stanton/Belle Prairie|85|94|179|Fillmore
+689|Momence/Bryant/Hamilton|184|145|329|Fillmore
+690|Hildreth|213|204|417|Franklin
+691|Campbell|161|144|305|Franklin
+692|West Franklin|267|255|522|Franklin
+693|East Franklin|153|163|316|Franklin
+694|Eustis|170|170|340|Frontier
+695|Stockville|102|144|246|Frontier
+696|Curtis|225|196|421|Frontier
+697|Maywood|98|102|200|Frontier
+698|Garden Prairie|43|57|100|Frontier
+699|Arapahoe|346|273|619|Furnas
+700|Beaver City|174|201|375|Furnas
+701|Cambridge|363|281|644|Furnas
+702|Edison|54|44|98|Furnas
+703|Hendley|39|56|95|Furnas
+704|Holbrook|77|82|159|Furnas
+705|Oxford|169|155|324|Furnas
+706|Wilsonville|47|39|86|Furnas
+707|Adams Area|639|428|1067|Gage
+708|Odell Area|263|239|502|Gage
+709|Filley/Virginia Area|311|256|567|Gage
+710|NW Quad Area|707|497|1204|Gage
+711|Homestead Area|408|323|731|Gage
+712|Wymore Area|535|397|932|Gage
+713|Beatrice Ward 1|826|516|1342|Gage
+714|Beatrice Ward 2|836|539|1375|Gage
+715|Beatrice Ward 3|588|405|993|Gage
+716|Beatrice Ward 4|857|575|1432|Gage
+717|Lisco|46|49|95|Garden
+718|Oshkosh 1|161|134|295|Garden
+719|Lost Creek|192|201|393|Garden
+720|Blue Creek|140|137|277|Garden
+721|(Countywide) Nebraska PPD|0|0|0|Garden
+722|Ward I City of Burwell|146|134|280|Garfield
+723|Ward II City of Burwell|120|121|241|Garfield
+724|Rural Garfield County|173|223|396|Garfield
+725|1|173|199|372|Gosper
+726|2|214|169|383|Gosper
+727|3|107|95|202|Gosper
+728|4|31|39|70|Gosper
+729|Grant County|154|204|358|Grant
+730|Scotia|123|100|223|Greeley
+731|Spalding|198|166|364|Greeley
+732|Wolbach|91|72|163|Greeley
+733|Greeley|168|138|306|Greeley
+734|(Countywide) Loup Valleys Rural PPD|0|0|0|Greeley
+735|One|595|335|930|Hall
+736|Two|256|148|404|Hall
+737|Three|583|320|903|Hall
+738|Four|518|299|817|Hall
+739|Five|713|338|1051|Hall
+740|Six|670|345|1015|Hall
+741|Seven|635|310|945|Hall
+742|Eight|733|371|1104|Hall
+743|Nine|777|434|1211|Hall
+744|Ten|670|384|1054|Hall
+745|Eleven|612|353|965|Hall
+746|Twelve|461|256|717|Hall
+747|Thirteen|961|527|1488|Hall
+748|Fourteen|1006|608|1614|Hall
+749|Fifteen|973|548|1521|Hall
+750|Sixteen|740|393|1133|Hall
+751|Seventeen|501|282|783|Hall
+752|Eighteen|548|383|931|Hall
+753|Nineteen|341|244|585|Hall
+754|Twenty|0|0|0|Hall
+755|Twenty-one|391|285|676|Hall
+756|Twenty-two|602|435|1037|Hall
+757|Twenty-three|248|184|432|Hall
+758|Twenty-four|610|434|1044|Hall
+759|Twenty-five|0|0|0|Hall
+760|Twenty-six|0|0|0|Hall
+761|Precinct 1|92|106|198|Hamilton
+762|Precinct 2|220|232|452|Hamilton
+763|Precinct 3|243|215|458|Hamilton
+764|Precinct 4|73|83|156|Hamilton
+765|Precinct 5|259|221|480|Hamilton
+766|Precinct 6|120|116|236|Hamilton
+767|Precinct 7|217|161|378|Hamilton
+768|Precinct 8|157|149|306|Hamilton
+769|Ward 1|539|375|914|Hamilton
+770|Ward 2|398|254|652|Hamilton
+771|Ward 3|461|264|725|Hamilton
+772|Republican City|99|118|217|Harlan
+773|Huntley-Ragan|100|108|208|Harlan
+774|East Alma|106|111|217|Harlan
+775|Central Alma|133|108|241|Harlan
+776|West Alma|126|94|220|Harlan
+777|Orleans|143|149|292|Harlan
+778|Stamford|59|100|159|Harlan
+779|Oxford|100|115|215|Harlan
+780|Precinct 1|69|88|157|Hayes
+781|Precinct 2|75|91|166|Hayes
+782|Precinct 3|70|91|161|Hayes
+783|Culbertson|247|279|526|Hitchcock
+784|Palisade|83|77|160|Hitchcock
+785|Stratton|125|168|293|Hitchcock
+786|Trenton|184|175|359|Hitchcock
+787|01 Antelope, Iowa & Verdigris|86|108|194|Holt
+788|02 Atkinson & Surrounding Twps|250|322|572|Holt
+789|03 Chambers & Surrounding Twps|206|212|418|Holt
+790|04 Emmet & Northeast Twps|82|142|224|Holt
+791|05 Ewing, Golden & Deloit|148|169|317|Holt
+792|06 Inman Twp|80|69|149|Holt
+793|07 Stuart & Cleveland Twps|273|180|453|Holt
+794|08 Grattan & Shields Twps|229|255|484|Holt
+795|09 Atkinson Ward I|318|294|612|Holt
+796|10 O'Neill Ward I|277|221|498|Holt
+797|11 O'Neill Ward II|247|246|493|Holt
+798|12 O'Neill Ward III|137|140|277|Holt
+799|13 O'Neill Ward IV|143|120|263|Holt
+800|Precinct 1|206|181|387|Hooker
+801|St. Paul Ward I|369|270|639|Howard
+802|St. Paul Ward II|463|371|834|Howard
+803|Spring Creek|69|76|145|Howard
+804|Elba|128|138|266|Howard
+805|Posen|120|108|228|Howard
+806|Dannebrog|233|175|408|Howard
+807|Loup Fork|116|82|198|Howard
+808|St. Libory|197|187|384|Howard
+809|Plymouth-Gibson|215|161|376|Jefferson
+810|Eureka-Washington|110|81|191|Jefferson
+811|Lincoln-Meridian-Fairbury-Rich|157|145|302|Jefferson
+812|Cub-Rock Creek|99|95|194|Jefferson
+813|Jefferson-Pleasant-Newton|263|165|428|Jefferson
+814|Buckley-Antelope-Endicott|218|209|427|Jefferson
+815|Ward I|187|160|347|Jefferson
+816|Ward II|157|106|263|Jefferson
+817|Ward III|240|197|437|Jefferson
+818|Ward IV|294|180|474|Jefferson
+819|Nemaha I|182|119|301|Johnson
+820|Nemaha II|363|266|629|Johnson
+821|Sterling|335|242|577|Johnson
+822|Spring Creek|167|105|272|Johnson
+823|Todd Creek|82|76|158|Johnson
+824|Western|54|40|94|Johnson
+825|Lowell|53|45|98|Kearney
+826|Newark/Blaine|221|169|390|Kearney
+827|Logan/Hayes/Sherman|144|121|265|Kearney
+828|Liberty/Lincoln/May|108|128|236|Kearney
+829|Eaton|49|43|92|Kearney
+830|Mirage|270|188|458|Kearney
+831|Oneida|134|120|254|Kearney
+832|Cosmo/Grant|37|37|74|Kearney
+833|North|247|157|404|Kearney
+834|South|311|203|514|Kearney
+835|Center|297|198|495|Kearney
+836|FIRST WARD|189|146|335|Keith
+837|SECOND WARD|224|172|396|Keith
+838|THIRD WARD|176|161|337|Keith
+839|FOURTH WARD|210|189|399|Keith
+840|FIFTH WARD|354|263|617|Keith
+841|BRULE|201|216|417|Keith
+842|LOGAN|69|76|145|Keith
+843|LONERGAN|134|139|273|Keith
+844|PAXTON|231|185|416|Keith
+845|RURAL OGALLALA|239|249|488|Keith
+846|WHITETAIL|70|76|146|Keith
+847|Garfield|79|100|179|Keya Paha
+848|Custer|74|61|135|Keya Paha
+849|Mills|50|90|140|Keya Paha
+850|1st Ward|395|284|679|Kimball
+851|2nd Ward|211|191|402|Kimball
+852|Antelope|140|171|311|Kimball
+853|Bushnell|79|65|144|Kimball
+854|Dix|90|121|211|Kimball
+855|Bloomfield Area|355|335|690|Knox
+856|Crofton Area|409|366|775|Knox
+857|Creighton Area|403|449|852|Knox
+858|Center Area|91|106|197|Knox
+859|Lindy/Santee Area|180|137|317|Knox
+860|Niobrara Area|156|157|313|Knox
+861|Verdigre Area|258|256|514|Knox
+862|Wausa Area|263|278|541|Knox
+863|1 A|437|141|578|Lancaster
+864|1 A-1|850|258|1108|Lancaster
+865|1 B|565|116|681|Lancaster
+866|1 D-1|492|164|656|Lancaster
+867|1 D-2|822|283|1105|Lancaster
+868|1 D-4|603|215|818|Lancaster
+869|1 D-5|472|171|643|Lancaster
+870|1 D-6|672|213|885|Lancaster
+871|1 D-7|444|136|580|Lancaster
+872|1 D-8|601|224|825|Lancaster
+873|1 D-9|635|233|868|Lancaster
+874|1 D-10|967|353|1320|Lancaster
+875|1 E-2|631|290|921|Lancaster
+876|1 E-3|565|212|777|Lancaster
+877|1 E-4|577|169|746|Lancaster
+878|1 E-5|555|167|722|Lancaster
+879|1 E-6|603|211|814|Lancaster
+880|1 E-7|569|216|785|Lancaster
+881|1 E-8|554|177|731|Lancaster
+882|1 E-9|851|233|1084|Lancaster
+883|1 F-1|617|247|864|Lancaster
+884|1 F-2|554|224|778|Lancaster
+885|1 F-3|1054|398|1452|Lancaster
+886|2 A|662|161|823|Lancaster
+887|2 C-1|671|210|881|Lancaster
+888|2 C-2|381|142|523|Lancaster
+889|2 C-3|551|244|795|Lancaster
+890|2 D-1|736|258|994|Lancaster
+891|2 D-2|644|249|893|Lancaster
+892|2 D-3|334|115|449|Lancaster
+893|2 D-5|1|0|1|Lancaster
+894|3 A|685|159|844|Lancaster
+895|3 D|170|26|196|Lancaster
+896|4 A|577|123|700|Lancaster
+897|5 B-1|677|134|811|Lancaster
+898|5 C-1|402|123|525|Lancaster
+899|5 C-3|495|133|628|Lancaster
+900|5 E-3|606|222|828|Lancaster
+901|5 E-4|566|172|738|Lancaster
+902|5 E-5|485|122|607|Lancaster
+903|5 E-6|665|199|864|Lancaster
+904|5 E-7|528|145|673|Lancaster
+905|5 E-8|627|193|820|Lancaster
+906|5 E-9|605|182|787|Lancaster
+907|6 A-1|760|139|899|Lancaster
+908|6 D-2|730|161|891|Lancaster
+909|6 E-1|575|120|695|Lancaster
+910|6 E-2|639|124|763|Lancaster
+911|6 F-1|627|186|813|Lancaster
+912|7 A|609|178|787|Lancaster
+913|7 D-2|649|156|805|Lancaster
+914|8 A|340|86|426|Lancaster
+915|8 C-2|674|162|836|Lancaster
+916|9 A-1|539|91|630|Lancaster
+917|9 B-1|474|107|581|Lancaster
+918|9 C-1|650|124|774|Lancaster
+919|9 D-1|459|88|547|Lancaster
+920|9 E-1|618|121|739|Lancaster
+921|9 E-2|698|103|801|Lancaster
+922|9 E-4|618|91|709|Lancaster
+923|9 E-5|678|74|752|Lancaster
+924|9 F-1|642|149|791|Lancaster
+925|9 F-2|688|178|866|Lancaster
+926|9 F-3|566|163|729|Lancaster
+927|9 F-4|494|143|637|Lancaster
+928|9 F-5|586|159|745|Lancaster
+929|9 F-9|379|131|510|Lancaster
+930|9 F-10|416|127|543|Lancaster
+931|9 F-11|416|150|566|Lancaster
+932|9 G-1|656|168|824|Lancaster
+933|9 G-2|523|128|651|Lancaster
+934|9 G-3|470|132|602|Lancaster
+935|9 G-4|610|188|798|Lancaster
+936|9 G-5|507|124|631|Lancaster
+937|9 G-6|485|148|633|Lancaster
+938|9 G-7|445|113|558|Lancaster
+939|9 G-8|639|140|779|Lancaster
+940|9 G-9|476|138|614|Lancaster
+941|9 H-1|584|171|755|Lancaster
+942|9 H-2|556|180|736|Lancaster
+943|9 H-3|609|153|762|Lancaster
+944|9 H-4|558|137|695|Lancaster
+945|9 H-5|509|109|618|Lancaster
+946|9 H-6|563|157|720|Lancaster
+947|9 H-7|499|173|672|Lancaster
+948|9 H-8|904|268|1172|Lancaster
+949|10 A|732|179|911|Lancaster
+950|10 B-1|479|113|592|Lancaster
+951|10 B-2|829|197|1026|Lancaster
+952|10 B-4|630|144|774|Lancaster
+953|10 B-5|588|147|735|Lancaster
+954|10 C-4|431|97|528|Lancaster
+955|10 C-5|490|107|597|Lancaster
+956|10 C-6|350|98|448|Lancaster
+957|10 C-7|461|109|570|Lancaster
+958|10 C-8|303|70|373|Lancaster
+959|10 C-12|502|143|645|Lancaster
+960|10 D-1|442|99|541|Lancaster
+961|10 D-2|518|114|632|Lancaster
+962|10 D-3|309|55|364|Lancaster
+963|10 D-4|596|163|759|Lancaster
+964|10 D-8|630|188|818|Lancaster
+965|10 E-1|574|159|733|Lancaster
+966|10 E-4|660|193|853|Lancaster
+967|10 E-5|652|162|814|Lancaster
+968|10 E-7|609|190|799|Lancaster
+969|10 E-8|563|192|755|Lancaster
+970|10 E-10|433|110|543|Lancaster
+971|10 E-11|360|101|461|Lancaster
+972|10 E-12|573|226|799|Lancaster
+973|10 E-14|501|121|622|Lancaster
+974|10 E-15|655|178|833|Lancaster
+975|10 E-16|880|226|1106|Lancaster
+976|10 E-17|559|167|726|Lancaster
+977|10 F-1|406|126|532|Lancaster
+978|10 F-2|296|103|399|Lancaster
+979|10 F-3|413|107|520|Lancaster
+980|10 F-4|555|126|681|Lancaster
+981|10 F-5|580|145|725|Lancaster
+982|10 F-6|415|133|548|Lancaster
+983|10 F-7|585|170|755|Lancaster
+984|10 F-10|504|137|641|Lancaster
+985|10 F-11|702|164|866|Lancaster
+986|10 F-12|503|154|657|Lancaster
+987|10 F-14|704|209|913|Lancaster
+988|10 F-15|514|129|643|Lancaster
+989|10 F-16|631|205|836|Lancaster
+990|10 G-1|555|144|699|Lancaster
+991|10 G-2|513|147|660|Lancaster
+992|10 G-3|587|139|726|Lancaster
+993|10 G-4|669|200|869|Lancaster
+994|10 G-5|439|102|541|Lancaster
+995|10 G-6|695|203|898|Lancaster
+996|10 G-7|430|148|578|Lancaster
+997|10 H-1|688|207|895|Lancaster
+998|10 H-2|1102|327|1429|Lancaster
+999|10 H-3|1171|299|1470|Lancaster
+1000|10 H-4|858|254|1112|Lancaster
+1001|10 H-5|1100|357|1457|Lancaster
+1002|10 H-6|715|195|910|Lancaster
+1003|10 H-7|633|187|820|Lancaster
+1004|10 H-8|904|270|1174|Lancaster
+1005|11 A-1|419|130|549|Lancaster
+1006|11 A-2|482|173|655|Lancaster
+1007|11 B-1|507|226|733|Lancaster
+1008|11 D-2|411|124|535|Lancaster
+1009|11 E-1|527|167|694|Lancaster
+1010|11 E-3|788|198|986|Lancaster
+1011|11 E-5|362|102|464|Lancaster
+1012|11 E-6|585|183|768|Lancaster
+1013|11 E-7|396|141|537|Lancaster
+1014|11 E-10|350|115|465|Lancaster
+1015|12 A-4|721|264|985|Lancaster
+1016|12 A-5|553|182|735|Lancaster
+1017|12 A-7|769|238|1007|Lancaster
+1018|12 A-8|488|163|651|Lancaster
+1019|12 A-9|486|135|621|Lancaster
+1020|12 A-10|1525|511|2036|Lancaster
+1021|12 B-1|577|201|778|Lancaster
+1022|12 B-2|468|148|616|Lancaster
+1023|12 B-4|529|192|721|Lancaster
+1024|12 B-6|474|176|650|Lancaster
+1025|12 B-7|520|163|683|Lancaster
+1026|12 B-8|1147|367|1514|Lancaster
+1027|12 C-2|670|281|951|Lancaster
+1028|12 C-6|505|204|709|Lancaster
+1029|12 C-7|915|301|1216|Lancaster
+1030|12 D|475|210|685|Lancaster
+1031|12 F|499|212|711|Lancaster
+1032|12 G-1|627|162|789|Lancaster
+1033|12 G-2|468|146|614|Lancaster
+1034|Buda|320|203|523|Lancaster
+1035|Centerville|589|288|877|Lancaster
+1036|Denton|871|462|1333|Lancaster
+1037|Elk|426|260|686|Lancaster
+1038|Garfield #1|17|4|21|Lancaster
+1039|Grant #1|568|262|830|Lancaster
+1040|Grant #2|179|91|270|Lancaster
+1041|Grant #3|501|220|721|Lancaster
+1042|Grant #4|0|0|0|Lancaster
+1043|Hickman|784|451|1235|Lancaster
+1044|Middle Creek|452|222|674|Lancaster
+1045|Murdock South|65|54|119|Lancaster
+1046|Nemaha|648|318|966|Lancaster
+1047|North Bluff|7|5|12|Lancaster
+1048|Oak|428|269|697|Lancaster
+1049|Panama|296|170|466|Lancaster
+1050|Rock Creek|331|188|519|Lancaster
+1051|Saltillo #1|451|226|677|Lancaster
+1052|Saltillo #2|549|307|856|Lancaster
+1053|South Pass|412|228|640|Lancaster
+1054|Stevens Creek|276|144|420|Lancaster
+1055|Stockton|364|138|502|Lancaster
+1056|Waverly #2|421|218|639|Lancaster
+1057|Waverly North|662|333|995|Lancaster
+1058|Waverly South|704|326|1030|Lancaster
+1059|West Salt|522|296|818|Lancaster
+1060|Yankee Hill East|201|85|286|Lancaster
+1061|Yankee Hill West|733|323|1056|Lancaster
+1062|Precinct 1|471|284|755|Lincoln
+1063|Precinct 2|311|206|517|Lincoln
+1064|Precinct 3|288|206|494|Lincoln
+1065|Precinct 4|229|175|404|Lincoln
+1066|Precinct 5|196|125|321|Lincoln
+1067|Precinct 6|737|520|1257|Lincoln
+1068|Precinct 7|547|344|891|Lincoln
+1069|Precinct 8|516|332|848|Lincoln
+1070|Precinct 9|476|290|766|Lincoln
+1071|Precinct 10|627|426|1053|Lincoln
+1072|Precinct 12|364|212|576|Lincoln
+1073|Precinct 13|557|414|971|Lincoln
+1074|Precinct 15|247|179|426|Lincoln
+1075|Precinct 16|251|190|441|Lincoln
+1076|Brady|262|256|518|Lincoln
+1077|Hall|455|482|937|Lincoln
+1078|Hershey|425|479|904|Lincoln
+1079|Hinman|180|174|354|Lincoln
+1080|Maxwell|190|197|387|Lincoln
+1081|Medicine|80|78|158|Lincoln
+1082|Osgood|637|556|1193|Lincoln
+1083|Sellers|341|272|613|Lincoln
+1084|Sutherland|460|402|862|Lincoln
+1085|Wallace|128|159|287|Lincoln
+1086|Logan County|179|207|386|Logan
+1087|Sawyer|193|219|412|Loup
+1088|Norfolk 1-1|590|384|974|Madison
+1089|Norfolk 1-2|416|284|700|Madison
+1090|Norfolk 1-3|421|257|678|Madison
+1091|Norfolk 2-1|804|487|1291|Madison
+1092|Norfolk 2-2|639|384|1023|Madison
+1093|Norfolk 2-3|686|370|1056|Madison
+1094|Norfolk 3-1|412|246|658|Madison
+1095|Norfolk 3-2|335|218|553|Madison
+1096|Norfolk 3-3|512|307|819|Madison
+1097|Norfolk 4-1|356|185|541|Madison
+1098|Norfolk 4-2|481|327|808|Madison
+1099|Norfolk 4-3|353|231|584|Madison
+1100|Norfolk Pct|402|338|740|Madison
+1101|Valley Pct|357|247|604|Madison
+1102|MG-Jefferson-Grove-High|264|272|536|Madison
+1103|Tilden 2nd Ward|151|145|296|Madison
+1104|Battle Creek City-BC Pct|452|381|833|Madison
+1105|Warnerville Pct|119|118|237|Madison
+1106|Union-Madison|106|112|218|Madison
+1107|Fairview-Kalamazoo-GG|117|120|237|Madison
+1108|School-Emerick-Shell Crk-NG|251|219|470|Madison
+1109|Madison City|342|216|558|Madison
+1110|Tryon 01|106|169|275|McPherson
+1111|Silver Creek|124|143|267|Merrick
+1112|Clarksville East|106|81|187|Merrick
+1113|Clarksville West|78|54|132|Merrick
+1114|Prairie Island|57|51|108|Merrick
+1115|Central|20|16|36|Merrick
+1116|Lone Tree North|76|104|180|Merrick
+1117|Midland|52|71|123|Merrick
+1118|Mead|48|44|92|Merrick
+1119|Chapman|130|121|251|Merrick
+1120|Prairie Creek|77|97|174|Merrick
+1121|Vieregg|196|203|399|Merrick
+1122|Loup|176|144|320|Merrick
+1123|Ward 1|408|321|729|Merrick
+1124|Ward 2|421|337|758|Merrick
+1125|Lone Tree South|49|75|124|Merrick
+1126|BROADWATER|61|89|150|Morrill
+1127|EAST BAYARD|232|286|518|Morrill
+1128|WEST BAYARD|205|212|417|Morrill
+1129|NORTH CAMP CLARKE|126|151|277|Morrill
+1130|EAST CAMP CLARKE|266|221|487|Morrill
+1131|WEST CAMP CLARKE|201|174|375|Morrill
+1132|GILCHRIST|10|26|36|Morrill
+1133|HAYNES|18|33|51|Morrill
+1134|REDINGTON|24|27|51|Morrill
+1135|Beav,Genoa,Ccreek,Pcreek|148|155|303|Nance
+1136|Ctnwd,Lferry,Full,Wnew,Enew|100|109|209|Nance
+1137|Cedar,Tcreek,Sbranch|101|83|184|Nance
+1138|Fullerton|292|216|508|Nance
+1139|Genoa I|117|76|193|Nance
+1140|Genoa II|90|89|179|Nance
+1141|Brownville|143|79|222|Nemaha
+1142|1st Douglas - Glenrock|293|184|477|Nemaha
+1143|2nd Douglas|325|154|479|Nemaha
+1144|3rd Douglas|287|196|483|Nemaha
+1145|4th Douglas|300|200|500|Nemaha
+1146|Lafayette|83|57|140|Nemaha
+1147|Nemaha|58|73|131|Nemaha
+1148|Peru|161|100|261|Nemaha
+1149|Washington - Benton|311|199|510|Nemaha
+1150|Beaver 1|208|162|370|Nuckolls
+1151|Beaver 2|156|124|280|Nuckolls
+1152|Beaver 3|178|102|280|Nuckolls
+1153|Elk|65|72|137|Nuckolls
+1154|Hardy|58|62|120|Nuckolls
+1155|Nelson|244|203|447|Nuckolls
+1156|Spring Creek|35|46|81|Nuckolls
+1157|Victor|159|139|298|Nuckolls
+1158|Berlin|284|182|466|Otoe
+1159|Delaware|280|164|444|Otoe
+1160|McWilliams|258|161|419|Otoe
+1161|Syracuse|786|433|1219|Otoe
+1162|Palmyra|650|389|1039|Otoe
+1163|Russell|257|152|409|Otoe
+1164|South Branch|264|193|457|Otoe
+1165|NC11|334|166|500|Otoe
+1166|NC12|295|126|421|Otoe
+1167|NC13|418|234|652|Otoe
+1168|NC14|270|127|397|Otoe
+1169|NC15|373|219|592|Otoe
+1170|NC16|478|231|709|Otoe
+1171|Pawnee 1|204|165|369|Pawnee
+1172|Pawnee 2|207|124|331|Pawnee
+1173|Burchard|84|101|185|Pawnee
+1174|Table Rock|94|91|185|Pawnee
+1175|Steinauer|127|95|222|Pawnee
+1176|District 1|201|226|427|Perkins
+1177|District 2|246|250|496|Perkins
+1178|District 3|230|252|482|Perkins
+1179|Cottonwood-Anderson|78|50|128|Phelps
+1180|Williamsburg-Westside|82|73|155|Phelps
+1181|Garfield-Union|61|61|122|Phelps
+1182|Westmark-Center|105|83|188|Phelps
+1183|Divide-Lake|120|141|261|Phelps
+1184|Sheridan-Prairie|167|140|307|Phelps
+1185|Rockfalls-Industry|46|62|108|Phelps
+1186|Laird|142|138|280|Phelps
+1187|Bertrand|197|149|346|Phelps
+1188|Ward 1|313|285|598|Phelps
+1189|Ward 2|411|217|628|Phelps
+1190|Ward 3|374|292|666|Phelps
+1191|Ward 4|490|327|817|Phelps
+1192|Osmond|390|421|811|Pierce
+1193|Plainview|351|325|676|Pierce
+1194|Pierce|383|455|838|Pierce
+1195|South Branch|198|207|405|Pierce
+1196|Pierce City|435|405|840|Pierce
+1197|1A|482|259|741|Platte
+1198|1B|273|162|435|Platte
+1199|1C|300|168|468|Platte
+1200|1D|304|197|501|Platte
+1201|2A|206|115|321|Platte
+1202|2B|432|226|658|Platte
+1203|2C|321|196|517|Platte
+1204|2D|301|181|482|Platte
+1205|3A|502|290|792|Platte
+1206|3B|343|156|499|Platte
+1207|3C|536|326|862|Platte
+1208|3D|528|297|825|Platte
+1209|4A|307|154|461|Platte
+1210|4B|357|178|535|Platte
+1211|4C|530|241|771|Platte
+1212|4D|277|144|421|Platte
+1213|Columbus Twp A|282|230|512|Platte
+1214|Columbus Twp B|512|297|809|Platte
+1215|Bismark|143|125|268|Platte
+1216|Sherman/Grand Prairie|155|158|313|Platte
+1217|Creston|91|87|178|Platte
+1218|Shell Creek|271|209|480|Platte
+1219|Humphrey|113|102|215|Platte
+1220|Butler/Loup|209|139|348|Platte
+1221|Oconee/Monroe|192|138|330|Platte
+1222|Lost Creek/Burrows|175|175|350|Platte
+1223|Granville|240|204|444|Platte
+1224|Joliet|27|38|65|Platte
+1225|St Bernard|132|128|260|Platte
+1226|Walker/Woodville|102|82|184|Platte
+1227|(Countywide) Elkhorn Rural PPD|0|0|0|Platte
+1228|South Canada|248|239|487|Polk
+1229|North Osceola|251|224|475|Polk
+1230|South Osceola|300|230|530|Polk
+1231|East Stromsburg|235|161|396|Polk
+1232|West Stromsburg|225|161|386|Polk
+1233|West Pleasant Home|163|151|314|Polk
+1234|Bartley|109|89|198|Red Willow
+1235|Beaver|82|88|170|Red Willow
+1236|Indianola|260|273|533|Red Willow
+1237|Northwest|200|272|472|Red Willow
+1238|Southwest|128|144|272|Red Willow
+1239|Ward 1 Precinct 1|165|157|322|Red Willow
+1240|Ward 1 Precinct 2|269|175|444|Red Willow
+1241|Ward 1 Precinct 3|183|202|385|Red Willow
+1242|Ward 2 Precinct 1|292|212|504|Red Willow
+1243|Ward 2 Precinct 2|236|198|434|Red Willow
+1244|Ward 3 Precinct 1|234|168|402|Red Willow
+1245|Ward 3 Precinct 3|205|171|376|Red Willow
+1246|Ward 4 Precinct 1|261|242|503|Red Willow
+1247|Arago/Barada|99|87|186|Richardson
+1248|FCRural/Ohio|133|127|260|Richardson
+1249|FC Ward 1|348|220|568|Richardson
+1250|FC Ward 2|276|167|443|Richardson
+1251|FC Ward 3|263|167|430|Richardson
+1252|FC Ward 4|177|149|326|Richardson
+1253|Fran/Hrr/Spi|99|97|196|Richardson
+1254|Grant Nemaha|111|87|198|Richardson
+1255|Humboldt I|111|52|163|Richardson
+1256|Humboldt II|130|63|193|Richardson
+1257|Jefferson/Rulo|132|100|232|Richardson
+1258|Liberty|70|67|137|Richardson
+1259|East Muddy|72|54|126|Richardson
+1260|West Muddy/Porter|104|87|191|Richardson
+1261|Salem|50|57|107|Richardson
+1262|Rock|327|414|741|Rock
+1263|Crete 1|474|192|666|Saline
+1264|Crete 2|322|171|493|Saline
+1265|Crete 3|401|206|607|Saline
+1266|C & B|258|169|427|Saline
+1267|Dorchester|303|205|508|Saline
+1268|Friend 1|218|126|344|Saline
+1269|Friend 2|192|149|341|Saline
+1270|Wilber 1|340|236|576|Saline
+1271|Wilber 2|229|175|404|Saline
+1272|Olive|102|62|164|Saline
+1273|South Fork|127|99|226|Saline
+1274|DeWitt|248|168|416|Saline
+1275|Precinct 1|784|312|1096|Sarpy
+1276|Precinct 2|716|273|989|Sarpy
+1277|Precinct 3|1207|444|1651|Sarpy
+1278|Precinct 4|977|327|1304|Sarpy
+1279|Precinct 5|822|305|1127|Sarpy
+1280|Precinct 6|990|364|1354|Sarpy
+1281|Precinct 7|865|326|1191|Sarpy
+1282|Precinct 8|934|301|1235|Sarpy
+1283|Precinct 9|746|317|1063|Sarpy
+1284|Precinct 10|644|252|896|Sarpy
+1285|Precinct 11|1486|505|1991|Sarpy
+1286|Precinct 12|1368|535|1903|Sarpy
+1287|Precinct 13|1238|423|1661|Sarpy
+1288|Precinct 16|1057|440|1497|Sarpy
+1289|Precinct 17|1025|447|1472|Sarpy
+1290|Precinct 18|788|323|1111|Sarpy
+1291|Precinct 19|1826|702|2528|Sarpy
+1292|Precinct 20|1333|429|1762|Sarpy
+1293|Precinct 21|1669|562|2231|Sarpy
+1294|Precinct 22|1198|375|1573|Sarpy
+1295|Precinct 23|1817|605|2422|Sarpy
+1296|Precinct 24|955|318|1273|Sarpy
+1297|Precinct 25|977|324|1301|Sarpy
+1298|Precinct 26|1074|302|1376|Sarpy
+1299|Precinct 31|2167|682|2849|Sarpy
+1300|Precinct 32|897|326|1223|Sarpy
+1301|Precinct 33|1159|366|1525|Sarpy
+1302|Precinct 34|1223|461|1684|Sarpy
+1303|Precinct 35|1100|439|1539|Sarpy
+1304|Precinct 36|1051|406|1457|Sarpy
+1305|Precinct 37|1984|656|2640|Sarpy
+1306|Precinct 38|1114|347|1461|Sarpy
+1307|Precinct 39|1364|472|1836|Sarpy
+1308|Precinct 40|1070|443|1513|Sarpy
+1309|Precinct 41|1551|502|2053|Sarpy
+1310|Precinct 42|1159|417|1576|Sarpy
+1311|Precinct 46|816|486|1302|Sarpy
+1312|Precinct 47|546|276|822|Sarpy
+1313|Precinct 48|1783|625|2408|Sarpy
+1314|Precinct 49|1555|465|2020|Sarpy
+1315|Precinct 51|2616|945|3561|Sarpy
+1316|Precinct 52|2013|716|2729|Sarpy
+1317|Precinct 53|1620|513|2133|Sarpy
+1318|Precinct 54|1474|471|1945|Sarpy
+1319|Precinct 55|1872|610|2482|Sarpy
+1320|Precinct 56|1083|414|1497|Sarpy
+1321|Precinct 57|1239|397|1636|Sarpy
+1322|Precinct 58|917|370|1287|Sarpy
+1323|Precinct 59|894|374|1268|Sarpy
+1324|Precinct 60|896|312|1208|Sarpy
+1325|Precinct 61|2973|1054|4027|Sarpy
+1326|Precinct 62|1879|669|2548|Sarpy
+1327|Valparaiso|422|305|727|Saunders
+1328|Weston|231|186|417|Saunders
+1329|Prague|250|211|461|Saunders
+1330|Malmo|194|130|324|Saunders
+1331|Ceresco|572|331|903|Saunders
+1332|Wahoo Rural|270|221|491|Saunders
+1333|Wahoo Ward I|528|276|804|Saunders
+1334|Wahoo Ward II|450|207|657|Saunders
+1335|Wahoo Ward III|405|203|608|Saunders
+1336|Center|252|141|393|Saunders
+1337|Cedar Bluffs|452|294|746|Saunders
+1338|Marietta|283|146|429|Saunders
+1339|District 4|662|418|1080|Saunders
+1340|Ashland Ward 1|421|193|614|Saunders
+1341|Ashland Ward 2|519|257|776|Saunders
+1342|Ashland Rural|541|280|821|Saunders
+1343|Yutan|777|423|1200|Saunders
+1344|Castle Rock A|95|96|191|Scotts Bluff
+1345|Castle Rock B|51|63|114|Scotts Bluff
+1346|Dewey-Tabor|245|247|492|Scotts Bluff
+1347|East Winter Creek|226|116|342|Scotts Bluff
+1348|Fanning|325|276|601|Scotts Bluff
+1349|Ford A & B|145|125|270|Scotts Bluff
+1350|Funston|175|141|316|Scotts Bluff
+1351|Gering (Rural)|219|189|408|Scotts Bluff
+1352|Gering I|718|486|1204|Scotts Bluff
+1353|Gering II|536|358|894|Scotts Bluff
+1354|Gering III|343|240|583|Scotts Bluff
+1355|Gering IV|542|394|936|Scotts Bluff
+1356|Highland|95|116|211|Scotts Bluff
+1357|Kiowa-Lyman|161|158|319|Scotts Bluff
+1358|Minatare I & II|141|95|236|Scotts Bluff
+1359|Mitchell (Rural)|133|112|245|Scotts Bluff
+1360|Mitchell I|166|116|282|Scotts Bluff
+1361|Mitchell II|175|131|306|Scotts Bluff
+1362|Morrill|217|159|376|Scotts Bluff
+1363|Roubadeau|39|24|63|Scotts Bluff
+1364|Scottsbluff 1|579|335|914|Scotts Bluff
+1365|Scottsbluff 2|576|310|886|Scotts Bluff
+1366|Scottsbluff 3|262|177|439|Scotts Bluff
+1367|Scottsbluff 4|130|87|217|Scotts Bluff
+1368|Scottsbluff 5|356|229|585|Scotts Bluff
+1369|Scottsbluff 6|321|231|552|Scotts Bluff
+1370|Scottsbluff 7|369|268|637|Scotts Bluff
+1371|Scottsbluff 8|400|275|675|Scotts Bluff
+1372|Terrytown I & II|219|150|369|Scotts Bluff
+1373|West Winter Creek|404|264|668|Scotts Bluff
+1374|B|145|81|226|Seward
+1375|C|153|146|299|Seward
+1376|E|315|207|522|Seward
+1377|G|179|99|278|Seward
+1378|H|407|272|679|Seward
+1379|I|324|311|635|Seward
+1380|J|128|68|196|Seward
+1381|K|209|148|357|Seward
+1382|M-BX|192|131|323|Seward
+1383|M-CO|141|133|274|Seward
+1384|O-1|314|198|512|Seward
+1385|O-2|362|225|587|Seward
+1386|S-1|690|336|1026|Seward
+1387|S-2|696|353|1049|Seward
+1388|S-3|509|264|773|Seward
+1389|S-4|323|144|467|Seward
+1390|East Gordon|195|179|374|Sheridan
+1391|West Gordon|188|213|401|Sheridan
+1392|North Rushville|177|174|351|Sheridan
+1393|South Rushville|135|128|263|Sheridan
+1394|HaySprings|230|234|464|Sheridan
+1395|Mirage Flats|72|94|166|Sheridan
+1396|South Sheridan|100|170|270|Sheridan
+1397|Wounded Knee|61|98|159|Sheridan
+1398|(Countywide) Nebraska PPD|0|0|0|Sheridan
+1399|Ashton|120|96|216|Sherman
+1400|Rockville|120|113|233|Sherman
+1401|North LC|166|143|309|Sherman
+1402|Central LC|79|88|167|Sherman
+1403|South LC|133|119|252|Sherman
+1404|Harrison|161|163|324|Sherman
+1405|Bowen|169|207|376|Sioux
+1406|Sheep Creek|115|156|271|Sioux
+1407|Butterfly|43|34|77|Stanton
+1408|Dewey|46|65|111|Stanton
+1409|Dimick|31|35|66|Stanton
+1410|Elkhorn|62|79|141|Stanton
+1411|Haymow|20|38|58|Stanton
+1412|Kingsburg|25|29|54|Stanton
+1413|Maple Creek|52|35|87|Stanton
+1414|Pilger|110|122|232|Stanton
+1415|Ramshorn|45|45|90|Stanton
+1416|Spring Branch|468|399|867|Stanton
+1417|Spr Br2|127|115|242|Stanton
+1418|Stanton A|200|171|371|Stanton
+1419|Stanton B|240|183|423|Stanton
+1420|Stanton C|26|24|50|Stanton
+1421|Union Creek|24|29|53|Stanton
+1422|Alex/Gilead|99|105|204|Thayer
+1423|Bruning/Belvidere|163|149|312|Thayer
+1424|Chester/Byron/Hubbell|180|205|385|Thayer
+1425|Davenport/Carleton|177|188|365|Thayer
+1426|Deshler|259|205|464|Thayer
+1427|Hebron North|273|212|485|Thayer
+1428|Hebron South|256|211|467|Thayer
+1429|Thomas|177|197|374|Thomas
+1430|Anderson/Blackbird|129|87|216|Thurston
+1431|Bryan|25|22|47|Thurston
+1432|Dawes|74|57|131|Thurston
+1433|Flournoy/Merry|73|88|161|Thurston
+1434|Omaha|157|137|294|Thurston
+1435|Pender|339|246|585|Thurston
+1436|Perry|51|58|109|Thurston
+1437|Thayer|33|30|63|Thurston
+1438|Winnebago|337|148|485|Thurston
+1439|Precinct 1|137|164|301|Valley
+1440|Precinct 2|161|127|288|Valley
+1441|Precinct 3|179|152|331|Valley
+1442|Precinct 4|183|160|343|Valley
+1443|Precinct 5|144|137|281|Valley
+1444|Precinct 6|139|121|260|Valley
+1445|Precinct 7|144|146|290|Valley
+1446|Ft Calhoun East|543|243|786|Washington
+1447|Ft Calhoun West|698|364|1062|Washington
+1448|Kennard|496|309|805|Washington
+1449|Lakeland|918|504|1422|Washington
+1450|Skyline|493|262|755|Washington
+1451|Central|500|281|781|Washington
+1452|Dana|536|282|818|Washington
+1453|Washington|292|175|467|Washington
+1454|Herman|241|158|399|Washington
+1455|Cuming City|293|183|476|Washington
+1456|Desoto|395|216|611|Washington
+1457|Fontanelle|372|252|624|Washington
+1458|Arlington|636|341|977|Washington
+1459|Arbor|478|190|668|Washington
+1460|Northview|610|247|857|Washington
+1461|Hoskins/Garfield|197|229|426|Wayne
+1462|Chapin/Hancock/Winside|218|197|415|Wayne
+1463|Deer Creek/Sherman|106|143|249|Wayne
+1464|Brenna/Plum Creek/Hunter|171|170|341|Wayne
+1465|Strahan/Wilbur|115|165|280|Wayne
+1466|Logan/Leslie|153|118|271|Wayne
+1467|First Ward|305|156|461|Wayne
+1468|Second Ward|245|123|368|Wayne
+1469|Third Ward|307|128|435|Wayne
+1470|Fourth Ward|408|216|624|Wayne
+1471|(Countywide) Cuming PPD|0|0|0|Wayne
+1472|(Countywide) Stanton County PPD|0|0|0|Wayne
+1473|Bladen|126|99|225|Webster
+1474|Blue Hill|271|261|532|Webster
+1475|Guide Rock|107|125|232|Webster
+1476|Red Cloud 1st|158|127|285|Webster
+1477|Red Cloud 2nd|221|199|420|Webster
+1478|Bartlett|137|154|291|Wheeler
+1479|Ericson|54|88|142|Wheeler
+1480|Stewart-Thayer|167|147|314|York
+1481|New York-Waco-Beaver-West Blue|312|234|546|York
+1482|Hays-McFadden|222|205|427|York
+1483|LeRoy-Baker|155|132|287|York
+1484|MABL|330|261|591|York
+1485|Brown-Henderson|444|352|796|York
+1486|Ward 1|334|187|521|York
+1487|Ward 2A|307|231|538|York
+1488|Ward 2B|309|201|510|York
+1489|Ward 3|288|155|443|York
+1490|Ward 4A|463|271|734|York
+1491|Ward 4B|412|211|623|York
