@@ -7,6 +7,8 @@ Solution: Needed method to programatically append each tab into a single output 
 
 NOTE:  Output files are in tab delimited format.
 
+NOTE #2: TabName column should represent the name of the County the precinct belongs to.
+
 
 
 1.  *.xls files sourced from Nebraska Secretary of State
