@@ -14,6 +14,6 @@ NOTE:  Output files are in tab delimited format.
 
 2.  Folder /ElectionCleaner/ contains the SQL Server SSIS package used to generate the appended output files
 
-3.  Output_*.txt files contain appended tabs from original Precinct
+3.  Output_*.txt files contain appended tabs from original Precinct xls files.
 
 4.  ElectionCleanup.bak file is a backup of the SQL Server database that contains tables and stored procedures used to append the data. DB was created in SQL Server 2019
